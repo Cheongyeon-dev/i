@@ -119,22 +119,122 @@
   "assets": [
     {
       "group": "AH",
-      "code": "0-1",
-      "title": "AH/0-1 (신아현_id_card.png)",
-      "status": "ready",
-      "path": "AH/0-1.webp",
-      "source": "신아현_id_card.png",
-      "situation": "0",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
       "code": "1-1",
       "title": "AH/1-1 (NAIS_1779104471897.png)",
       "status": "ready",
       "path": "AH/1-1.webp",
       "source": "NAIS_1779104471897.png",
       "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "10-1",
+      "title": "AH/10-1 (NAIS_1778581973216.png)",
+      "status": "ready",
+      "path": "AH/10-1.webp",
+      "source": "NAIS_1778581973216.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "11-1",
+      "title": "AH/11-1 (NAIS_SCENE_1779089044507.png)",
+      "status": "ready",
+      "path": "AH/11-1.webp",
+      "source": "NAIS_SCENE_1779089044507.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "12-1",
+      "title": "AH/12-1 (NAIS_1778581800648.png)",
+      "status": "ready",
+      "path": "AH/12-1.webp",
+      "source": "NAIS_1778581800648.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "13-1",
+      "title": "AH/13-1 (NAIS_1779087829287.png)",
+      "status": "ready",
+      "path": "AH/13-1.webp",
+      "source": "NAIS_1779087829287.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "14-1",
+      "title": "AH/14-1 (NAIS_1778581800648.png)",
+      "status": "ready",
+      "path": "AH/14-1.webp",
+      "source": "NAIS_1778581800648.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "15-1",
+      "title": "AH/15-1 (NAIS_SCENE_1779089084757.png)",
+      "status": "ready",
+      "path": "AH/15-1.webp",
+      "source": "NAIS_SCENE_1779089084757.png",
+      "situation": "15",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "16-1",
+      "title": "AH/16-1 (NAIS_1778581973216.png)",
+      "status": "ready",
+      "path": "AH/16-1.webp",
+      "source": "NAIS_1778581973216.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "16-2",
+      "title": "AH/16-2 (NAIS_SCENE_1779526043648.png)",
+      "status": "ready",
+      "path": "AH/16-2.webp",
+      "source": "NAIS_SCENE_1779526043648.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "16-3",
+      "title": "AH/16-3 (NAIS_SCENE_1779526159721.png)",
+      "status": "ready",
+      "path": "AH/16-3.webp",
+      "source": "NAIS_SCENE_1779526159721.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "16-4",
+      "title": "AH/16-4 (NAIS_SCENE_1779526199216.png)",
+      "status": "ready",
+      "path": "AH/16-4.webp",
+      "source": "NAIS_SCENE_1779526199216.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "17-1",
+      "title": "AH/17-1 (NAIS_1778581800648.png)",
+      "status": "ready",
+      "path": "AH/17-1.webp",
+      "source": "NAIS_1778581800648.png",
+      "situation": "17",
       "mode": "batch"
     },
     {
@@ -289,116 +389,6 @@
     },
     {
       "group": "AH",
-      "code": "10-1",
-      "title": "AH/10-1 (NAIS_1778581973216.png)",
-      "status": "ready",
-      "path": "AH/10-1.webp",
-      "source": "NAIS_1778581973216.png",
-      "situation": "10",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "11-1",
-      "title": "AH/11-1 (NAIS_SCENE_1779089044507.png)",
-      "status": "ready",
-      "path": "AH/11-1.webp",
-      "source": "NAIS_SCENE_1779089044507.png",
-      "situation": "11",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "12-1",
-      "title": "AH/12-1 (NAIS_1778581800648.png)",
-      "status": "ready",
-      "path": "AH/12-1.webp",
-      "source": "NAIS_1778581800648.png",
-      "situation": "12",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "13-1",
-      "title": "AH/13-1 (NAIS_1779087829287.png)",
-      "status": "ready",
-      "path": "AH/13-1.webp",
-      "source": "NAIS_1779087829287.png",
-      "situation": "13",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "14-1",
-      "title": "AH/14-1 (NAIS_1778581800648.png)",
-      "status": "ready",
-      "path": "AH/14-1.webp",
-      "source": "NAIS_1778581800648.png",
-      "situation": "14",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "15-1",
-      "title": "AH/15-1 (NAIS_SCENE_1779089084757.png)",
-      "status": "ready",
-      "path": "AH/15-1.webp",
-      "source": "NAIS_SCENE_1779089084757.png",
-      "situation": "15",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "16-1",
-      "title": "AH/16-1 (NAIS_1778581973216.png)",
-      "status": "ready",
-      "path": "AH/16-1.webp",
-      "source": "NAIS_1778581973216.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "16-2",
-      "title": "AH/16-2 (NAIS_SCENE_1779526043648.png)",
-      "status": "ready",
-      "path": "AH/16-2.webp",
-      "source": "NAIS_SCENE_1779526043648.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "16-3",
-      "title": "AH/16-3 (NAIS_SCENE_1779526159721.png)",
-      "status": "ready",
-      "path": "AH/16-3.webp",
-      "source": "NAIS_SCENE_1779526159721.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "16-4",
-      "title": "AH/16-4 (NAIS_SCENE_1779526199216.png)",
-      "status": "ready",
-      "path": "AH/16-4.webp",
-      "source": "NAIS_SCENE_1779526199216.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "17-1",
-      "title": "AH/17-1 (NAIS_1778581800648.png)",
-      "status": "ready",
-      "path": "AH/17-1.webp",
-      "source": "NAIS_1778581800648.png",
-      "situation": "17",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
       "code": "A01-1",
       "title": "AH/A01-1 (NAIS_1779085468665.png)",
       "status": "ready",
@@ -419,46 +409,6 @@
     },
     {
       "group": "AH",
-      "code": "A04-1",
-      "title": "AH/A04-1 (NAIS_1779556571813.png)",
-      "status": "ready",
-      "path": "AH/A04-1.webp",
-      "source": "NAIS_1779556571813.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "A04-2",
-      "title": "AH/A04-2 (NAIS_1779556652808.png)",
-      "status": "ready",
-      "path": "AH/A04-2.webp",
-      "source": "NAIS_1779556652808.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "A04-3",
-      "title": "AH/A04-3 (NAIS_1779557734501.png)",
-      "status": "ready",
-      "path": "AH/A04-3.webp",
-      "source": "NAIS_1779557734501.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "A04-4",
-      "title": "AH/A04-4 (NAIS_1779557745650.png)",
-      "status": "ready",
-      "path": "AH/A04-4.webp",
-      "source": "NAIS_1779557745650.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
       "code": "B01-1",
       "title": "AH/B01-1 (NAIS_1779083065124.png)",
       "status": "ready",
@@ -469,142 +419,12 @@
     },
     {
       "group": "AH",
-      "code": "C01-1",
-      "title": "AH/C01-1 (NAIS_1779104495504.png)",
-      "status": "ready",
-      "path": "AH/C01-1.webp",
-      "source": "NAIS_1779104495504.png",
-      "situation": "C01",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
       "code": "C02-1",
       "title": "AH/C02-1 (NAIS_1779081697597.png)",
       "status": "ready",
       "path": "AH/C02-1.webp",
       "source": "NAIS_1779081697597.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "C03-1",
-      "title": "AH/C03-1 (NAIS_1779086138185.png)",
-      "status": "ready",
-      "path": "AH/C03-1.webp",
-      "source": "NAIS_1779086138185.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "D02-1",
-      "title": "AH/D02-1 (NAIS_1778578079878.png)",
-      "status": "ready",
-      "path": "AH/D02-1.webp",
-      "source": "NAIS_1778578079878.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "E01-1",
-      "title": "AH/E01-1 (NAIS_SCENE_1779089065536.png)",
-      "status": "ready",
-      "path": "AH/E01-1.webp",
-      "source": "NAIS_SCENE_1779089065536.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "E01-2",
-      "title": "AH/E01-2 (NAIS_SCENE_1779096448264.png)",
-      "status": "ready",
-      "path": "AH/E01-2.webp",
-      "source": "NAIS_SCENE_1779096448264.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "E01-3",
-      "title": "AH/E01-3 (NAIS_SCENE_1779096456420.png)",
-      "status": "ready",
-      "path": "AH/E01-3.webp",
-      "source": "NAIS_SCENE_1779096456420.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "E02-1",
-      "title": "AH/E02-1 (NAIS_1778581800648.png)",
-      "status": "ready",
-      "path": "AH/E02-1.webp",
-      "source": "NAIS_1778581800648.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "F03-1",
-      "title": "AH/F03-1 (NAIS_1778578306921.png)",
-      "status": "ready",
-      "path": "AH/F03-1.webp",
-      "source": "NAIS_1778578306921.png",
-      "situation": "F03",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "F03-2",
-      "title": "AH/F03-2 (NAIS_1778578398153.png)",
-      "status": "ready",
-      "path": "AH/F03-2.webp",
-      "source": "NAIS_1778578398153.png",
-      "situation": "F03",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "F04-1",
-      "title": "AH/F04-1 (NAIS_1778578606328.png)",
-      "status": "ready",
-      "path": "AH/F04-1.webp",
-      "source": "NAIS_1778578606328.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "F04-2",
-      "title": "AH/F04-2 (NAIS_1779522900193.png)",
-      "status": "ready",
-      "path": "AH/F04-2.webp",
-      "source": "NAIS_1779522900193.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "F04-3",
-      "title": "AH/F04-3 (NAIS_1779522921140.png)",
-      "status": "ready",
-      "path": "AH/F04-3.webp",
-      "source": "NAIS_1779522921140.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "AH",
-      "code": "F04-4",
-      "title": "AH/F04-4 (NAIS_1779522932276.png)",
-      "status": "ready",
-      "path": "AH/F04-4.webp",
-      "source": "NAIS_1779522932276.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
@@ -669,102 +489,12 @@
     },
     {
       "group": "BH",
-      "code": "0-1",
-      "title": "BH/0-1 (백한_id_card.png)",
-      "status": "ready",
-      "path": "BH/0-1.webp",
-      "source": "백한_id_card.png",
-      "situation": "0",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
       "code": "1-1",
       "title": "BH/1-1 (NAIS_1779088403924.png)",
       "status": "ready",
       "path": "BH/1-1.webp",
       "source": "NAIS_1779088403924.png",
       "situation": "1",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "2-1",
-      "title": "BH/2-1 (NAIS_1779087953074.png)",
-      "status": "ready",
-      "path": "BH/2-1.webp",
-      "source": "NAIS_1779087953074.png",
-      "situation": "2",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "3-1",
-      "title": "BH/3-1 (NAIS_1779088058116.png)",
-      "status": "ready",
-      "path": "BH/3-1.webp",
-      "source": "NAIS_1779088058116.png",
-      "situation": "3",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "4-1",
-      "title": "BH/4-1 (NAIS_1779087899534.png)",
-      "status": "ready",
-      "path": "BH/4-1.webp",
-      "source": "NAIS_1779087899534.png",
-      "situation": "4",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "5-1",
-      "title": "BH/5-1 (NAIS_1779087913683.png)",
-      "status": "ready",
-      "path": "BH/5-1.webp",
-      "source": "NAIS_1779087913683.png",
-      "situation": "5",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "6-1",
-      "title": "BH/6-1 (NAIS_1779104923883.png)",
-      "status": "ready",
-      "path": "BH/6-1.webp",
-      "source": "NAIS_1779104923883.png",
-      "situation": "6",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "7-1",
-      "title": "BH/7-1 (NAIS_1779104923883.png)",
-      "status": "ready",
-      "path": "BH/7-1.webp",
-      "source": "NAIS_1779104923883.png",
-      "situation": "7",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "8-1",
-      "title": "BH/8-1 (NAIS_1779104928222.png)",
-      "status": "ready",
-      "path": "BH/8-1.webp",
-      "source": "NAIS_1779104928222.png",
-      "situation": "8",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "9-1",
-      "title": "BH/9-1 (NAIS_1779088478234.png)",
-      "status": "ready",
-      "path": "BH/9-1.webp",
-      "source": "NAIS_1779088478234.png",
-      "situation": "9",
       "mode": "batch"
     },
     {
@@ -869,6 +599,86 @@
     },
     {
       "group": "BH",
+      "code": "2-1",
+      "title": "BH/2-1 (NAIS_1779087953074.png)",
+      "status": "ready",
+      "path": "BH/2-1.webp",
+      "source": "NAIS_1779087953074.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "3-1",
+      "title": "BH/3-1 (NAIS_1779088058116.png)",
+      "status": "ready",
+      "path": "BH/3-1.webp",
+      "source": "NAIS_1779088058116.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "4-1",
+      "title": "BH/4-1 (NAIS_1779087899534.png)",
+      "status": "ready",
+      "path": "BH/4-1.webp",
+      "source": "NAIS_1779087899534.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "5-1",
+      "title": "BH/5-1 (NAIS_1779087913683.png)",
+      "status": "ready",
+      "path": "BH/5-1.webp",
+      "source": "NAIS_1779087913683.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "6-1",
+      "title": "BH/6-1 (NAIS_1779104923883.png)",
+      "status": "ready",
+      "path": "BH/6-1.webp",
+      "source": "NAIS_1779104923883.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "7-1",
+      "title": "BH/7-1 (NAIS_1779104923883.png)",
+      "status": "ready",
+      "path": "BH/7-1.webp",
+      "source": "NAIS_1779104923883.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "8-1",
+      "title": "BH/8-1 (NAIS_1779104928222.png)",
+      "status": "ready",
+      "path": "BH/8-1.webp",
+      "source": "NAIS_1779104928222.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "9-1",
+      "title": "BH/9-1 (NAIS_1779088478234.png)",
+      "status": "ready",
+      "path": "BH/9-1.webp",
+      "source": "NAIS_1779088478234.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
       "code": "A01-1",
       "title": "BH/A01-1 (NAIS_1779085363327.png)",
       "status": "ready",
@@ -925,36 +735,6 @@
       "path": "BH/A03-2.webp",
       "source": "NAIS_1779084275428.png",
       "situation": "A03",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "A04-1",
-      "title": "BH/A04-1 (NAIS_1779557257809.png)",
-      "status": "ready",
-      "path": "BH/A04-1.webp",
-      "source": "NAIS_1779557257809.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "A04-2",
-      "title": "BH/A04-2 (NAIS_1779557269305.png)",
-      "status": "ready",
-      "path": "BH/A04-2.webp",
-      "source": "NAIS_1779557269305.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "A04-3",
-      "title": "BH/A04-3 (NAIS_1779557280015.png)",
-      "status": "ready",
-      "path": "BH/A04-3.webp",
-      "source": "NAIS_1779557280015.png",
-      "situation": "A04",
       "mode": "batch"
     },
     {
@@ -1019,16 +799,6 @@
     },
     {
       "group": "BH",
-      "code": "B03-1",
-      "title": "BH/B03-1 (NAIS_1779083429567.png)",
-      "status": "ready",
-      "path": "BH/B03-1.webp",
-      "source": "NAIS_1779083429567.png",
-      "situation": "B03",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
       "code": "C02-1",
       "title": "BH/C02-1 (NAIS_1779082113440.png)",
       "status": "ready",
@@ -1055,96 +825,6 @@
       "path": "BH/C02-3.webp",
       "source": "NAIS_1779082161722.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "C03-1",
-      "title": "BH/C03-1 (NAIS_1779086458788.png)",
-      "status": "ready",
-      "path": "BH/C03-1.webp",
-      "source": "NAIS_1779086458788.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "E01-1",
-      "title": "BH/E01-1 (NAIS_SCENE_1779096472489.png)",
-      "status": "ready",
-      "path": "BH/E01-1.webp",
-      "source": "NAIS_SCENE_1779096472489.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "E01-2",
-      "title": "BH/E01-2 (NAIS_SCENE_1779096505629.png)",
-      "status": "ready",
-      "path": "BH/E01-2.webp",
-      "source": "NAIS_SCENE_1779096505629.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "E02-1",
-      "title": "BH/E02-1 (NAIS_1778678375030.png)",
-      "status": "ready",
-      "path": "BH/E02-1.webp",
-      "source": "NAIS_1778678375030.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "E02-2",
-      "title": "BH/E02-2 (NAIS_SCENE_1779090433961.png)",
-      "status": "ready",
-      "path": "BH/E02-2.webp",
-      "source": "NAIS_SCENE_1779090433961.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "E02-3",
-      "title": "BH/E02-3 (NAIS_SCENE_1779090447455.png)",
-      "status": "ready",
-      "path": "BH/E02-3.webp",
-      "source": "NAIS_SCENE_1779090447455.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "F04-1",
-      "title": "BH/F04-1 (NAIS_1779522399255.png)",
-      "status": "ready",
-      "path": "BH/F04-1.webp",
-      "source": "NAIS_1779522399255.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "F04-2",
-      "title": "BH/F04-2 (NAIS_1779522440013.png)",
-      "status": "ready",
-      "path": "BH/F04-2.webp",
-      "source": "NAIS_1779522440013.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "BH",
-      "code": "F04-3",
-      "title": "BH/F04-3 (NAIS_1779522450700.png)",
-      "status": "ready",
-      "path": "BH/F04-3.webp",
-      "source": "NAIS_1779522450700.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
@@ -1189,22 +869,142 @@
     },
     {
       "group": "CA",
-      "code": "0-1",
-      "title": "CA/0-1 (캐서린_id_card (2).png)",
-      "status": "ready",
-      "path": "CA/0-1.webp",
-      "source": "캐서린_id_card (2).png",
-      "situation": "0",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
       "code": "1-1",
       "title": "CA/1-1 (NAIS_1778623407411.png)",
       "status": "ready",
       "path": "CA/1-1.webp",
       "source": "NAIS_1778623407411.png",
       "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "10-1",
+      "title": "CA/10-1 (NAIS_1778623407411.png)",
+      "status": "ready",
+      "path": "CA/10-1.webp",
+      "source": "NAIS_1778623407411.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "10-2",
+      "title": "CA/10-2 (NAIS_1779537232872.png)",
+      "status": "ready",
+      "path": "CA/10-2.webp",
+      "source": "NAIS_1779537232872.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "11-1",
+      "title": "CA/11-1 (NAIS_1779535553613.png)",
+      "status": "ready",
+      "path": "CA/11-1.webp",
+      "source": "NAIS_1779535553613.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "12-1",
+      "title": "CA/12-1 (NAIS_1778625709798.png)",
+      "status": "ready",
+      "path": "CA/12-1.webp",
+      "source": "NAIS_1778625709798.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "12-2",
+      "title": "CA/12-2 (NAIS_1778628192166.png)",
+      "status": "ready",
+      "path": "CA/12-2.webp",
+      "source": "NAIS_1778628192166.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "12-3",
+      "title": "CA/12-3 (NAIS_SCENE_1779090853581.png)",
+      "status": "ready",
+      "path": "CA/12-3.webp",
+      "source": "NAIS_SCENE_1779090853581.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "12-4",
+      "title": "CA/12-4 (NAIS_SCENE_1779090895312.png)",
+      "status": "ready",
+      "path": "CA/12-4.webp",
+      "source": "NAIS_SCENE_1779090895312.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "13-1",
+      "title": "CA/13-1 (NAIS_1778626123556.png)",
+      "status": "ready",
+      "path": "CA/13-1.webp",
+      "source": "NAIS_1778626123556.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "14-1",
+      "title": "CA/14-1 (NAIS_1778626172253.png)",
+      "status": "ready",
+      "path": "CA/14-1.webp",
+      "source": "NAIS_1778626172253.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "15-1",
+      "title": "CA/15-1 (NAIS_SCENE_1779091469795.png)",
+      "status": "ready",
+      "path": "CA/15-1.webp",
+      "source": "NAIS_SCENE_1779091469795.png",
+      "situation": "15",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "16-1",
+      "title": "CA/16-1 (NAIS_1779525876589.png)",
+      "status": "ready",
+      "path": "CA/16-1.webp",
+      "source": "NAIS_1779525876589.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "16-2",
+      "title": "CA/16-2 (NAIS_1779525893309.png)",
+      "status": "ready",
+      "path": "CA/16-2.webp",
+      "source": "NAIS_1779525893309.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "17-1",
+      "title": "CA/17-1 (NAIS_1778626172253.png)",
+      "status": "ready",
+      "path": "CA/17-1.webp",
+      "source": "NAIS_1778626172253.png",
+      "situation": "17",
       "mode": "batch"
     },
     {
@@ -1359,196 +1159,6 @@
     },
     {
       "group": "CA",
-      "code": "10-1",
-      "title": "CA/10-1 (NAIS_1778623407411.png)",
-      "status": "ready",
-      "path": "CA/10-1.webp",
-      "source": "NAIS_1778623407411.png",
-      "situation": "10",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "10-2",
-      "title": "CA/10-2 (NAIS_1779537232872.png)",
-      "status": "ready",
-      "path": "CA/10-2.webp",
-      "source": "NAIS_1779537232872.png",
-      "situation": "10",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "11-1",
-      "title": "CA/11-1 (NAIS_1779535553613.png)",
-      "status": "ready",
-      "path": "CA/11-1.webp",
-      "source": "NAIS_1779535553613.png",
-      "situation": "11",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "12-1",
-      "title": "CA/12-1 (NAIS_1778625709798.png)",
-      "status": "ready",
-      "path": "CA/12-1.webp",
-      "source": "NAIS_1778625709798.png",
-      "situation": "12",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "12-2",
-      "title": "CA/12-2 (NAIS_1778628192166.png)",
-      "status": "ready",
-      "path": "CA/12-2.webp",
-      "source": "NAIS_1778628192166.png",
-      "situation": "12",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "12-3",
-      "title": "CA/12-3 (NAIS_SCENE_1779090853581.png)",
-      "status": "ready",
-      "path": "CA/12-3.webp",
-      "source": "NAIS_SCENE_1779090853581.png",
-      "situation": "12",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "12-4",
-      "title": "CA/12-4 (NAIS_SCENE_1779090895312.png)",
-      "status": "ready",
-      "path": "CA/12-4.webp",
-      "source": "NAIS_SCENE_1779090895312.png",
-      "situation": "12",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "13-1",
-      "title": "CA/13-1 (NAIS_1778626123556.png)",
-      "status": "ready",
-      "path": "CA/13-1.webp",
-      "source": "NAIS_1778626123556.png",
-      "situation": "13",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "14-1",
-      "title": "CA/14-1 (NAIS_1778626172253.png)",
-      "status": "ready",
-      "path": "CA/14-1.webp",
-      "source": "NAIS_1778626172253.png",
-      "situation": "14",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "15-1",
-      "title": "CA/15-1 (NAIS_SCENE_1779091469795.png)",
-      "status": "ready",
-      "path": "CA/15-1.webp",
-      "source": "NAIS_SCENE_1779091469795.png",
-      "situation": "15",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "16-1",
-      "title": "CA/16-1 (NAIS_1779525876589.png)",
-      "status": "ready",
-      "path": "CA/16-1.webp",
-      "source": "NAIS_1779525876589.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "16-2",
-      "title": "CA/16-2 (NAIS_1779525893309.png)",
-      "status": "ready",
-      "path": "CA/16-2.webp",
-      "source": "NAIS_1779525893309.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "17-1",
-      "title": "CA/17-1 (NAIS_1778626172253.png)",
-      "status": "ready",
-      "path": "CA/17-1.webp",
-      "source": "NAIS_1778626172253.png",
-      "situation": "17",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "19-1",
-      "title": "CA/19-1 (NAIS_1778626979742.png)",
-      "status": "ready",
-      "path": "CA/19-1.webp",
-      "source": "NAIS_1778626979742.png",
-      "situation": "19",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "20-1",
-      "title": "CA/20-1 (NAIS_1779524579624.png)",
-      "status": "ready",
-      "path": "CA/20-1.webp",
-      "source": "NAIS_1779524579624.png",
-      "situation": "20",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "20-2",
-      "title": "CA/20-2 (NAIS_1779524610270.png)",
-      "status": "ready",
-      "path": "CA/20-2.webp",
-      "source": "NAIS_1779524610270.png",
-      "situation": "20",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "20-3",
-      "title": "CA/20-3 (NAIS_1779524713207.png)",
-      "status": "ready",
-      "path": "CA/20-3.webp",
-      "source": "NAIS_1779524713207.png",
-      "situation": "20",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "20-4",
-      "title": "CA/20-4 (NAIS_1779524780052.png)",
-      "status": "ready",
-      "path": "CA/20-4.webp",
-      "source": "NAIS_1779524780052.png",
-      "situation": "20",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "20-5",
-      "title": "CA/20-5 (NAIS_1779524809920.png)",
-      "status": "ready",
-      "path": "CA/20-5.webp",
-      "source": "NAIS_1779524809920.png",
-      "situation": "20",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
       "code": "A01-1",
       "title": "CA/A01-1 (NAIS_1779085024373.png)",
       "status": "ready",
@@ -1639,46 +1249,6 @@
     },
     {
       "group": "CA",
-      "code": "A04-1",
-      "title": "CA/A04-1 (NAIS_1779552351219.png)",
-      "status": "ready",
-      "path": "CA/A04-1.webp",
-      "source": "NAIS_1779552351219.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "A04-2",
-      "title": "CA/A04-2 (NAIS_1779552832042.png)",
-      "status": "ready",
-      "path": "CA/A04-2.webp",
-      "source": "NAIS_1779552832042.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "A04-3",
-      "title": "CA/A04-3 (NAIS_1779552898602.png)",
-      "status": "ready",
-      "path": "CA/A04-3.webp",
-      "source": "NAIS_1779552898602.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "A04-4",
-      "title": "CA/A04-4 (NAIS_1779552911396.png)",
-      "status": "ready",
-      "path": "CA/A04-4.webp",
-      "source": "NAIS_1779552911396.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
       "code": "B01-1",
       "title": "CA/B01-1 (NAIS_1779082352195.png)",
       "status": "ready",
@@ -1739,16 +1309,6 @@
     },
     {
       "group": "CA",
-      "code": "C01-1",
-      "title": "CA/C01-1 (NAIS_1778623075044.png)",
-      "status": "ready",
-      "path": "CA/C01-1.webp",
-      "source": "NAIS_1778623075044.png",
-      "situation": "C01",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
       "code": "C02-1",
       "title": "CA/C02-1 (NAIS_1779081910832.png)",
       "status": "ready",
@@ -1785,326 +1345,6 @@
       "path": "CA/C02-4.webp",
       "source": "NAIS_1779082015085.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "C03-1",
-      "title": "CA/C03-1 (NAIS_1779086606700.png)",
-      "status": "ready",
-      "path": "CA/C03-1.webp",
-      "source": "NAIS_1779086606700.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "C03-2",
-      "title": "CA/C03-2 (NAIS_1779086666109.png)",
-      "status": "ready",
-      "path": "CA/C03-2.webp",
-      "source": "NAIS_1779086666109.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "C03-3",
-      "title": "CA/C03-3 (NAIS_SCENE_1779105713241.png)",
-      "status": "ready",
-      "path": "CA/C03-3.webp",
-      "source": "NAIS_SCENE_1779105713241.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "D02-1",
-      "title": "CA/D02-1 (NAIS_1778626527422.png)",
-      "status": "ready",
-      "path": "CA/D02-1.webp",
-      "source": "NAIS_1778626527422.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "D02-2",
-      "title": "CA/D02-2 (NAIS_1778626657265.png)",
-      "status": "ready",
-      "path": "CA/D02-2.webp",
-      "source": "NAIS_1778626657265.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "D02-3",
-      "title": "CA/D02-3 (NAIS_1778626741655.png)",
-      "status": "ready",
-      "path": "CA/D02-3.webp",
-      "source": "NAIS_1778626741655.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "D03-1",
-      "title": "CA/D03-1 (NAIS_1778628127748.png)",
-      "status": "ready",
-      "path": "CA/D03-1.webp",
-      "source": "NAIS_1778628127748.png",
-      "situation": "D03",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E01-1",
-      "title": "CA/E01-1 (NAIS_SCENE_1779091434228.png)",
-      "status": "ready",
-      "path": "CA/E01-1.webp",
-      "source": "NAIS_SCENE_1779091434228.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E01-2",
-      "title": "CA/E01-2 (NAIS_SCENE_1779091454541.png)",
-      "status": "ready",
-      "path": "CA/E01-2.webp",
-      "source": "NAIS_SCENE_1779091454541.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E01-3",
-      "title": "CA/E01-3 (NAIS_SCENE_1779091462252.png)",
-      "status": "ready",
-      "path": "CA/E01-3.webp",
-      "source": "NAIS_SCENE_1779091462252.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E01-4",
-      "title": "CA/E01-4 (NAIS_SCENE_1779096529861.png)",
-      "status": "ready",
-      "path": "CA/E01-4.webp",
-      "source": "NAIS_SCENE_1779096529861.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E01-5",
-      "title": "CA/E01-5 (NAIS_SCENE_1779096537355.png)",
-      "status": "ready",
-      "path": "CA/E01-5.webp",
-      "source": "NAIS_SCENE_1779096537355.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-1",
-      "title": "CA/E02-1 (NAIS_1778625725433.png)",
-      "status": "ready",
-      "path": "CA/E02-1.webp",
-      "source": "NAIS_1778625725433.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-2",
-      "title": "CA/E02-2 (NAIS_1778625857097.png)",
-      "status": "ready",
-      "path": "CA/E02-2.webp",
-      "source": "NAIS_1778625857097.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-3",
-      "title": "CA/E02-3 (NAIS_SCENE_1779090811219.png)",
-      "status": "ready",
-      "path": "CA/E02-3.webp",
-      "source": "NAIS_SCENE_1779090811219.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-4",
-      "title": "CA/E02-4 (NAIS_SCENE_1779090825546.png)",
-      "status": "ready",
-      "path": "CA/E02-4.webp",
-      "source": "NAIS_SCENE_1779090825546.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-5",
-      "title": "CA/E02-5 (NAIS_SCENE_1779090941179.png)",
-      "status": "ready",
-      "path": "CA/E02-5.webp",
-      "source": "NAIS_SCENE_1779090941179.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-6",
-      "title": "CA/E02-6 (NAIS_SCENE_1779090953290.png)",
-      "status": "ready",
-      "path": "CA/E02-6.webp",
-      "source": "NAIS_SCENE_1779090953290.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-7",
-      "title": "CA/E02-7 (NAIS_SCENE_1779090960490.png)",
-      "status": "ready",
-      "path": "CA/E02-7.webp",
-      "source": "NAIS_SCENE_1779090960490.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-8",
-      "title": "CA/E02-8 (NAIS_SCENE_1779091182725.png)",
-      "status": "ready",
-      "path": "CA/E02-8.webp",
-      "source": "NAIS_SCENE_1779091182725.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-9",
-      "title": "CA/E02-9 (NAIS_SCENE_1779091196404.png)",
-      "status": "ready",
-      "path": "CA/E02-9.webp",
-      "source": "NAIS_SCENE_1779091196404.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-10",
-      "title": "CA/E02-10 (NAIS_SCENE_1779091216085.png)",
-      "status": "ready",
-      "path": "CA/E02-10.webp",
-      "source": "NAIS_SCENE_1779091216085.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-11",
-      "title": "CA/E02-11 (NAIS_SCENE_1779091242138.png)",
-      "status": "ready",
-      "path": "CA/E02-11.webp",
-      "source": "NAIS_SCENE_1779091242138.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "E02-12",
-      "title": "CA/E02-12 (NAIS_SCENE_1779091261836.png)",
-      "status": "ready",
-      "path": "CA/E02-12.webp",
-      "source": "NAIS_SCENE_1779091261836.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "F01-1",
-      "title": "CA/F01-1 (NAIS_1778627275523.png)",
-      "status": "ready",
-      "path": "CA/F01-1.webp",
-      "source": "NAIS_1778627275523.png",
-      "situation": "F01",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "F04-1",
-      "title": "CA/F04-1 (NAIS_1778670036754.png)",
-      "status": "ready",
-      "path": "CA/F04-1.webp",
-      "source": "NAIS_1778670036754.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "F04-2",
-      "title": "CA/F04-2 (NAIS_SCENE_1779472718186.png)",
-      "status": "ready",
-      "path": "CA/F04-2.webp",
-      "source": "NAIS_SCENE_1779472718186.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "F04-3",
-      "title": "CA/F04-3 (NAIS_SCENE_1779472758425.png)",
-      "status": "ready",
-      "path": "CA/F04-3.webp",
-      "source": "NAIS_SCENE_1779472758425.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "F04-4",
-      "title": "CA/F04-4 (NAIS_SCENE_1779472846517.png)",
-      "status": "ready",
-      "path": "CA/F04-4.webp",
-      "source": "NAIS_SCENE_1779472846517.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "F04-5",
-      "title": "CA/F04-5 (NAIS_SCENE_1779473217942.png)",
-      "status": "ready",
-      "path": "CA/F04-5.webp",
-      "source": "NAIS_SCENE_1779473217942.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "F04-6",
-      "title": "CA/F04-6 (NAIS_SCENE_1779473287348.png)",
-      "status": "ready",
-      "path": "CA/F04-6.webp",
-      "source": "NAIS_SCENE_1779473287348.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CA",
-      "code": "F04-7",
-      "title": "CA/F04-7 (NAIS_SCENE_1779473295895.png)",
-      "status": "ready",
-      "path": "CA/F04-7.webp",
-      "source": "NAIS_SCENE_1779473295895.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
@@ -2169,16 +1409,6 @@
     },
     {
       "group": "CY",
-      "code": "0-1",
-      "title": "CY/0-1 (청연_id_card (3).png)",
-      "status": "ready",
-      "path": "CY/0-1.webp",
-      "source": "청연_id_card (3).png",
-      "situation": "0",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
       "code": "1-1",
       "title": "CY/1-1 (NAIS_1779021120032.png)",
       "status": "ready",
@@ -2199,122 +1429,12 @@
     },
     {
       "group": "CY",
-      "code": "2-1",
-      "title": "CY/2-1 (NAIS_1779012923472.png)",
+      "code": "1-3",
+      "title": "CY/1-3 (1-3.webp)",
       "status": "ready",
-      "path": "CY/2-1.webp",
-      "source": "NAIS_1779012923472.png",
-      "situation": "2",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "2-2",
-      "title": "CY/2-2 (NAIS_SCENE_1778497040471.png)",
-      "status": "ready",
-      "path": "CY/2-2.webp",
-      "source": "NAIS_SCENE_1778497040471.png",
-      "situation": "2",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "3-1",
-      "title": "CY/3-1 (NAIS_SCENE_1779454044895.png)",
-      "status": "ready",
-      "path": "CY/3-1.webp",
-      "source": "NAIS_SCENE_1779454044895.png",
-      "situation": "3",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "3-2",
-      "title": "CY/3-2 (NAIS_1779524089470.png)",
-      "status": "ready",
-      "path": "CY/3-2.webp",
-      "source": "NAIS_1779524089470.png",
-      "situation": "3",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "4-1",
-      "title": "CY/4-1 (NAIS_1779022173200.png)",
-      "status": "ready",
-      "path": "CY/4-1.webp",
-      "source": "NAIS_1779022173200.png",
-      "situation": "4",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "4-2",
-      "title": "CY/4-2 (NAIS_1779454296151.png)",
-      "status": "ready",
-      "path": "CY/4-2.webp",
-      "source": "NAIS_1779454296151.png",
-      "situation": "4",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "5-1",
-      "title": "CY/5-1 (NAIS_1779456441798.png)",
-      "status": "ready",
-      "path": "CY/5-1.webp",
-      "source": "NAIS_1779456441798.png",
-      "situation": "5",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "6-1",
-      "title": "CY/6-1 (NAIS_1779454357615.png)",
-      "status": "ready",
-      "path": "CY/6-1.webp",
-      "source": "NAIS_1779454357615.png",
-      "situation": "6",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "7-1",
-      "title": "CY/7-1 (NAIS_1779528278984.png)",
-      "status": "ready",
-      "path": "CY/7-1.webp",
-      "source": "NAIS_1779528278984.png",
-      "situation": "7",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "8-1",
-      "title": "CY/8-1 (NAIS_1779074399744.png)",
-      "status": "ready",
-      "path": "CY/8-1.webp",
-      "source": "NAIS_1779074399744.png",
-      "situation": "8",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "9-1",
-      "title": "CY/9-1 (NAIS_1779022905300.png)",
-      "status": "ready",
-      "path": "CY/9-1.webp",
-      "source": "NAIS_1779022905300.png",
-      "situation": "9",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "9-2",
-      "title": "CY/9-2 (NAIS_1779453479277.png)",
-      "status": "ready",
-      "path": "CY/9-2.webp",
-      "source": "NAIS_1779453479277.png",
-      "situation": "9",
+      "path": "CY/1-3.webp",
+      "source": "1-3.webp",
+      "situation": "1",
       "mode": "batch"
     },
     {
@@ -2334,6 +1454,26 @@
       "status": "ready",
       "path": "CY/10-2.webp",
       "source": "NAIS_1779456453958.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "10-3",
+      "title": "CY/10-3 (10-3.webp)",
+      "status": "ready",
+      "path": "CY/10-3.webp",
+      "source": "10-3.webp",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "10-4",
+      "title": "CY/10-4 (10-4.webp)",
+      "status": "ready",
+      "path": "CY/10-4.webp",
+      "source": "10-4.webp",
       "situation": "10",
       "mode": "batch"
     },
@@ -2419,6 +1559,16 @@
     },
     {
       "group": "CY",
+      "code": "14-3",
+      "title": "CY/14-3 (14-3.webp)",
+      "status": "ready",
+      "path": "CY/14-3.webp",
+      "source": "14-3.webp",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
       "code": "15-1",
       "title": "CY/15-1 (NAIS_1778403213751.png)",
       "status": "ready",
@@ -2499,42 +1649,152 @@
     },
     {
       "group": "CY",
-      "code": "19-1",
-      "title": "CY/19-1 (프사.png)",
+      "code": "2-1",
+      "title": "CY/2-1 (NAIS_1779012923472.png)",
       "status": "ready",
-      "path": "CY/19-1.webp",
-      "source": "프사.png",
-      "situation": "19",
+      "path": "CY/2-1.webp",
+      "source": "NAIS_1779012923472.png",
+      "situation": "2",
       "mode": "batch"
     },
     {
       "group": "CY",
-      "code": "20-1",
-      "title": "CY/20-1 (NAIS_1779524901754.png)",
+      "code": "2-2",
+      "title": "CY/2-2 (NAIS_1779456659713.png)",
       "status": "ready",
-      "path": "CY/20-1.webp",
-      "source": "NAIS_1779524901754.png",
-      "situation": "20",
+      "path": "CY/2-2.webp",
+      "source": "NAIS_1779456659713.png",
+      "situation": "2",
       "mode": "batch"
     },
     {
       "group": "CY",
-      "code": "20-2",
-      "title": "CY/20-2 (NAIS_1779525063758.png)",
+      "code": "3-1",
+      "title": "CY/3-1 (NAIS_SCENE_1779454044895.png)",
       "status": "ready",
-      "path": "CY/20-2.webp",
-      "source": "NAIS_1779525063758.png",
-      "situation": "20",
+      "path": "CY/3-1.webp",
+      "source": "NAIS_SCENE_1779454044895.png",
+      "situation": "3",
       "mode": "batch"
     },
     {
       "group": "CY",
-      "code": "20-3",
-      "title": "CY/20-3 (NAIS_1779525143121.png)",
+      "code": "3-2",
+      "title": "CY/3-2 (NAIS_1779524089470.png)",
       "status": "ready",
-      "path": "CY/20-3.webp",
-      "source": "NAIS_1779525143121.png",
-      "situation": "20",
+      "path": "CY/3-2.webp",
+      "source": "NAIS_1779524089470.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "4-1",
+      "title": "CY/4-1 (NAIS_1779022173200.png)",
+      "status": "ready",
+      "path": "CY/4-1.webp",
+      "source": "NAIS_1779022173200.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "4-2",
+      "title": "CY/4-2 (NAIS_1779454296151.png)",
+      "status": "ready",
+      "path": "CY/4-2.webp",
+      "source": "NAIS_1779454296151.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "5-1",
+      "title": "CY/5-1 (NAIS_1779456441798.png)",
+      "status": "ready",
+      "path": "CY/5-1.webp",
+      "source": "NAIS_1779456441798.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "6-1",
+      "title": "CY/6-1 (NAIS_1779454357615.png)",
+      "status": "ready",
+      "path": "CY/6-1.webp",
+      "source": "NAIS_1779454357615.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "6-2",
+      "title": "CY/6-2 (6-2.webp)",
+      "status": "ready",
+      "path": "CY/6-2.webp",
+      "source": "6-2.webp",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "7-1",
+      "title": "CY/7-1 (NAIS_1779528278984.png)",
+      "status": "ready",
+      "path": "CY/7-1.webp",
+      "source": "NAIS_1779528278984.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "7-2",
+      "title": "CY/7-2 (7-2.webp)",
+      "status": "ready",
+      "path": "CY/7-2.webp",
+      "source": "7-2.webp",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "8-1",
+      "title": "CY/8-1 (NAIS_1779074399744.png)",
+      "status": "ready",
+      "path": "CY/8-1.webp",
+      "source": "NAIS_1779074399744.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "9-1",
+      "title": "CY/9-1 (NAIS_1779022905300.png)",
+      "status": "ready",
+      "path": "CY/9-1.webp",
+      "source": "NAIS_1779022905300.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "9-2",
+      "title": "CY/9-2 (NAIS_1779453479277.png)",
+      "status": "ready",
+      "path": "CY/9-2.webp",
+      "source": "NAIS_1779453479277.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "9-3",
+      "title": "CY/9-3 (9-3.webp)",
+      "status": "ready",
+      "path": "CY/9-3.webp",
+      "source": "9-3.webp",
+      "situation": "9",
       "mode": "batch"
     },
     {
@@ -2599,16 +1859,6 @@
     },
     {
       "group": "CY",
-      "code": "A02-1",
-      "title": "CY/A02-1 (스크린샷 2026-05-18 183054.png)",
-      "status": "ready",
-      "path": "CY/A02-1.webp",
-      "source": "스크린샷 2026-05-18 183054.png",
-      "situation": "A02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
       "code": "A03-1",
       "title": "CY/A03-1 (NAIS_1779084170392.png)",
       "status": "ready",
@@ -2629,72 +1879,22 @@
     },
     {
       "group": "CY",
-      "code": "A04-1",
-      "title": "CY/A04-1 (NAIS_1779075607213.png)",
+      "code": "A03-3",
+      "title": "CY/A03-3 (A03-3.webp)",
       "status": "ready",
-      "path": "CY/A04-1.webp",
-      "source": "NAIS_1779075607213.png",
-      "situation": "A04",
+      "path": "CY/A03-3.webp",
+      "source": "A03-3.webp",
+      "situation": "A03",
       "mode": "batch"
     },
     {
       "group": "CY",
-      "code": "A04-2",
-      "title": "CY/A04-2 (NAIS_1779551791406.png)",
+      "code": "A03-4",
+      "title": "CY/A03-4 (A03-4.webp)",
       "status": "ready",
-      "path": "CY/A04-2.webp",
-      "source": "NAIS_1779551791406.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "A04-3",
-      "title": "CY/A04-3 (NAIS_1779553172350.png)",
-      "status": "ready",
-      "path": "CY/A04-3.webp",
-      "source": "NAIS_1779553172350.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "A04-4",
-      "title": "CY/A04-4 (NAIS_1779553210129.png)",
-      "status": "ready",
-      "path": "CY/A04-4.webp",
-      "source": "NAIS_1779553210129.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "A04-5",
-      "title": "CY/A04-5 (NAIS_1779553290032.png)",
-      "status": "ready",
-      "path": "CY/A04-5.webp",
-      "source": "NAIS_1779553290032.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "A04-6",
-      "title": "CY/A04-6 (NAIS_1779553383082.png)",
-      "status": "ready",
-      "path": "CY/A04-6.webp",
-      "source": "NAIS_1779553383082.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "A04-7",
-      "title": "CY/A04-7 (NAIS_1779558048156.png)",
-      "status": "ready",
-      "path": "CY/A04-7.webp",
-      "source": "NAIS_1779558048156.png",
-      "situation": "A04",
+      "path": "CY/A03-4.webp",
+      "source": "A03-4.webp",
+      "situation": "A03",
       "mode": "batch"
     },
     {
@@ -2729,66 +1929,6 @@
     },
     {
       "group": "CY",
-      "code": "B02-1",
-      "title": "CY/B02-1 (NAIS_1779006467924.png)",
-      "status": "ready",
-      "path": "CY/B02-1.webp",
-      "source": "NAIS_1779006467924.png",
-      "situation": "B02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "B02-2",
-      "title": "CY/B02-2 (NAIS_1779006728665.png)",
-      "status": "ready",
-      "path": "CY/B02-2.webp",
-      "source": "NAIS_1779006728665.png",
-      "situation": "B02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "B02-3",
-      "title": "CY/B02-3 (NAIS_1779007649343.png)",
-      "status": "ready",
-      "path": "CY/B02-3.webp",
-      "source": "NAIS_1779007649343.png",
-      "situation": "B02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "B02-4",
-      "title": "CY/B02-4 (아이스크림.png)",
-      "status": "ready",
-      "path": "CY/B02-4.webp",
-      "source": "아이스크림.png",
-      "situation": "B02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "C01-1",
-      "title": "CY/C01-1 (NAIS_1779009053581.png)",
-      "status": "ready",
-      "path": "CY/C01-1.webp",
-      "source": "NAIS_1779009053581.png",
-      "situation": "C01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "C01-2",
-      "title": "CY/C01-2 (NAIS_1779009367954.png)",
-      "status": "ready",
-      "path": "CY/C01-2.webp",
-      "source": "NAIS_1779009367954.png",
-      "situation": "C01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
       "code": "C02-1",
       "title": "CY/C02-1 (NAIS_1779080438596.png)",
       "status": "ready",
@@ -2815,266 +1955,6 @@
       "path": "CY/C02-3.webp",
       "source": "NAIS_1779081207489.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "C03-1",
-      "title": "CY/C03-1 (NAIS_1779086012974.png)",
-      "status": "ready",
-      "path": "CY/C03-1.webp",
-      "source": "NAIS_1779086012974.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "D01-1",
-      "title": "CY/D01-1 (NAIS_1778478942627.png)",
-      "status": "ready",
-      "path": "CY/D01-1.webp",
-      "source": "NAIS_1778478942627.png",
-      "situation": "D01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "D02-1",
-      "title": "CY/D02-1 (NAIS_1778577696402.png)",
-      "status": "ready",
-      "path": "CY/D02-1.webp",
-      "source": "NAIS_1778577696402.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "D04-1",
-      "title": "CY/D04-1 (NAIS_1778499897261.png)",
-      "status": "ready",
-      "path": "CY/D04-1.webp",
-      "source": "NAIS_1778499897261.png",
-      "situation": "D04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "D04-2",
-      "title": "CY/D04-2 (NAIS_1778499988875.png)",
-      "status": "ready",
-      "path": "CY/D04-2.webp",
-      "source": "NAIS_1778499988875.png",
-      "situation": "D04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "E01-1",
-      "title": "CY/E01-1 (NAIS_1778718096287.png)",
-      "status": "ready",
-      "path": "CY/E01-1.webp",
-      "source": "NAIS_1778718096287.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "E01-2",
-      "title": "CY/E01-2 (NAIS_1778744548394.png)",
-      "status": "ready",
-      "path": "CY/E01-2.webp",
-      "source": "NAIS_1778744548394.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "E01-3",
-      "title": "CY/E01-3 (NAIS_1778744633277.png)",
-      "status": "ready",
-      "path": "CY/E01-3.webp",
-      "source": "NAIS_1778744633277.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "E01-4",
-      "title": "CY/E01-4 (NAIS_1778745153017.png)",
-      "status": "ready",
-      "path": "CY/E01-4.webp",
-      "source": "NAIS_1778745153017.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "E01-5",
-      "title": "CY/E01-5 (NAIS_1778746028836.png)",
-      "status": "ready",
-      "path": "CY/E01-5.webp",
-      "source": "NAIS_1778746028836.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "E01-6",
-      "title": "CY/E01-6 (NAIS_SCENE_1779092702496.png)",
-      "status": "ready",
-      "path": "CY/E01-6.webp",
-      "source": "NAIS_SCENE_1779092702496.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "E02-1",
-      "title": "CY/E02-1 (NAIS_1779529793087.png)",
-      "status": "ready",
-      "path": "CY/E02-1.webp",
-      "source": "NAIS_1779529793087.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "E02-2",
-      "title": "CY/E02-2 (NAIS_1779533676879.png)",
-      "status": "ready",
-      "path": "CY/E02-2.webp",
-      "source": "NAIS_1779533676879.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F01-1",
-      "title": "CY/F01-1 (NAIS_1779079619227.png)",
-      "status": "ready",
-      "path": "CY/F01-1.webp",
-      "source": "NAIS_1779079619227.png",
-      "situation": "F01",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F02-1",
-      "title": "CY/F02-1 (NAIS_1779007883591.png)",
-      "status": "ready",
-      "path": "CY/F02-1.webp",
-      "source": "NAIS_1779007883591.png",
-      "situation": "F02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F02-2",
-      "title": "CY/F02-2 (NAIS_1779008378159.png)",
-      "status": "ready",
-      "path": "CY/F02-2.webp",
-      "source": "NAIS_1779008378159.png",
-      "situation": "F02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F02-3",
-      "title": "CY/F02-3 (무전.png)",
-      "status": "ready",
-      "path": "CY/F02-3.webp",
-      "source": "무전.png",
-      "situation": "F02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F02-4",
-      "title": "CY/F02-4 (헬기-미소.png)",
-      "status": "ready",
-      "path": "CY/F02-4.webp",
-      "source": "헬기-미소.png",
-      "situation": "F02",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F03-1",
-      "title": "CY/F03-1 (NAIS_1778450273530.png)",
-      "status": "ready",
-      "path": "CY/F03-1.webp",
-      "source": "NAIS_1778450273530.png",
-      "situation": "F03",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F04-1",
-      "title": "CY/F04-1 (NAIS_1779470228369.png)",
-      "status": "ready",
-      "path": "CY/F04-1.webp",
-      "source": "NAIS_1779470228369.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F04-2",
-      "title": "CY/F04-2 (NAIS_1779471894640.png)",
-      "status": "ready",
-      "path": "CY/F04-2.webp",
-      "source": "NAIS_1779471894640.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F04-3",
-      "title": "CY/F04-3 (NAIS_1779472063576.png)",
-      "status": "ready",
-      "path": "CY/F04-3.webp",
-      "source": "NAIS_1779472063576.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F04-4",
-      "title": "CY/F04-4 (NAIS_1779474846377.png)",
-      "status": "ready",
-      "path": "CY/F04-4.webp",
-      "source": "NAIS_1779474846377.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F04-5",
-      "title": "CY/F04-5 (NAIS_1779475027849.png)",
-      "status": "ready",
-      "path": "CY/F04-5.webp",
-      "source": "NAIS_1779475027849.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F04-6",
-      "title": "CY/F04-6 (NAIS_1779523036165.png)",
-      "status": "ready",
-      "path": "CY/F04-6.webp",
-      "source": "NAIS_1779523036165.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "CY",
-      "code": "F04-7",
-      "title": "CY/F04-7 (NAIS_1779523161862.png)",
-      "status": "ready",
-      "path": "CY/F04-7.webp",
-      "source": "NAIS_1779523161862.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
@@ -3158,13 +2038,993 @@
       "mode": "batch"
     },
     {
-      "group": "HR",
-      "code": "0-1",
-      "title": "HR/0-1 (한유라_id_card.png)",
+      "group": "HL",
+      "code": "1-1",
+      "title": "HL/1-1 (NAIS_1779913199528.png)",
       "status": "ready",
-      "path": "HR/0-1.webp",
-      "source": "한유라_id_card.png",
-      "situation": "0",
+      "path": "HL/1-1.webp",
+      "source": "NAIS_1779913199528.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "1-2",
+      "title": "HL/1-2 (NAIS_1779914130498.png)",
+      "status": "ready",
+      "path": "HL/1-2.webp",
+      "source": "NAIS_1779914130498.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "1-3",
+      "title": "HL/1-3 (NAIS_1779914929625.png)",
+      "status": "ready",
+      "path": "HL/1-3.webp",
+      "source": "NAIS_1779914929625.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "1-4",
+      "title": "HL/1-4 (NAIS_1779915018518.png)",
+      "status": "ready",
+      "path": "HL/1-4.webp",
+      "source": "NAIS_1779915018518.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "1-5",
+      "title": "HL/1-5 (NAIS_1779915046186.png)",
+      "status": "ready",
+      "path": "HL/1-5.webp",
+      "source": "NAIS_1779915046186.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "1-6",
+      "title": "HL/1-6 (NAIS_1780228048989.png)",
+      "status": "ready",
+      "path": "HL/1-6.webp",
+      "source": "NAIS_1780228048989.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "10-1",
+      "title": "HL/10-1 (NAIS_1779911271556.png)",
+      "status": "ready",
+      "path": "HL/10-1.webp",
+      "source": "NAIS_1779911271556.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "10-2",
+      "title": "HL/10-2 (NAIS_1779911330463.png)",
+      "status": "ready",
+      "path": "HL/10-2.webp",
+      "source": "NAIS_1779911330463.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "10-3",
+      "title": "HL/10-3 (NAIS_1779911547155.png)",
+      "status": "ready",
+      "path": "HL/10-3.webp",
+      "source": "NAIS_1779911547155.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "10-4",
+      "title": "HL/10-4 (NAIS_1779912785458.png)",
+      "status": "ready",
+      "path": "HL/10-4.webp",
+      "source": "NAIS_1779912785458.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "10-5",
+      "title": "HL/10-5 (NAIS_1779912903062.png)",
+      "status": "ready",
+      "path": "HL/10-5.webp",
+      "source": "NAIS_1779912903062.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "10-6",
+      "title": "HL/10-6 (NAIS_1780228072792.png)",
+      "status": "ready",
+      "path": "HL/10-6.webp",
+      "source": "NAIS_1780228072792.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "11-1",
+      "title": "HL/11-1 (NAIS_1780228356699.png)",
+      "status": "ready",
+      "path": "HL/11-1.webp",
+      "source": "NAIS_1780228356699.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "11-2",
+      "title": "HL/11-2 (NAIS_1780228825423.png)",
+      "status": "ready",
+      "path": "HL/11-2.webp",
+      "source": "NAIS_1780228825423.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "11-3",
+      "title": "HL/11-3 (NAIS_1780229130474.png)",
+      "status": "ready",
+      "path": "HL/11-3.webp",
+      "source": "NAIS_1780229130474.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "12-1",
+      "title": "HL/12-1 (NAIS_1779915087734.png)",
+      "status": "ready",
+      "path": "HL/12-1.webp",
+      "source": "NAIS_1779915087734.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "12-2",
+      "title": "HL/12-2 (NAIS_1779915200319.png)",
+      "status": "ready",
+      "path": "HL/12-2.webp",
+      "source": "NAIS_1779915200319.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "12-3",
+      "title": "HL/12-3 (NAIS_1779915210095.png)",
+      "status": "ready",
+      "path": "HL/12-3.webp",
+      "source": "NAIS_1779915210095.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "13-1",
+      "title": "HL/13-1 (NAIS_SCENE_1780180348253.png)",
+      "status": "ready",
+      "path": "HL/13-1.webp",
+      "source": "NAIS_SCENE_1780180348253.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "13-2",
+      "title": "HL/13-2 (NAIS_SCENE_1780184417644.png)",
+      "status": "ready",
+      "path": "HL/13-2.webp",
+      "source": "NAIS_SCENE_1780184417644.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "13-3",
+      "title": "HL/13-3 (NAIS_SCENE_1780184486223.png)",
+      "status": "ready",
+      "path": "HL/13-3.webp",
+      "source": "NAIS_SCENE_1780184486223.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "14-1",
+      "title": "HL/14-1 (NAIS_1779915073884.png)",
+      "status": "ready",
+      "path": "HL/14-1.webp",
+      "source": "NAIS_1779915073884.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "14-2",
+      "title": "HL/14-2 (NAIS_1779915130742.png)",
+      "status": "ready",
+      "path": "HL/14-2.webp",
+      "source": "NAIS_1779915130742.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "15-1",
+      "title": "HL/15-1 (NAIS_SCENE_1780184531470.png)",
+      "status": "ready",
+      "path": "HL/15-1.webp",
+      "source": "NAIS_SCENE_1780184531470.png",
+      "situation": "15",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "16-1",
+      "title": "HL/16-1 (NAIS_1779911610216.png)",
+      "status": "ready",
+      "path": "HL/16-1.webp",
+      "source": "NAIS_1779911610216.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "16-2",
+      "title": "HL/16-2 (NAIS_1779913762394.png)",
+      "status": "ready",
+      "path": "HL/16-2.webp",
+      "source": "NAIS_1779913762394.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "16-3",
+      "title": "HL/16-3 (NAIS_1780229428107.png)",
+      "status": "ready",
+      "path": "HL/16-3.webp",
+      "source": "NAIS_1780229428107.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "17-1",
+      "title": "HL/17-1 (NAIS_1779911555704.png)",
+      "status": "ready",
+      "path": "HL/17-1.webp",
+      "source": "NAIS_1779911555704.png",
+      "situation": "17",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "17-2",
+      "title": "HL/17-2 (NAIS_1779912213353.png)",
+      "status": "ready",
+      "path": "HL/17-2.webp",
+      "source": "NAIS_1779912213353.png",
+      "situation": "17",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "2-1",
+      "title": "HL/2-1 (NAIS_1780229659947.png)",
+      "status": "ready",
+      "path": "HL/2-1.webp",
+      "source": "NAIS_1780229659947.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "2-2",
+      "title": "HL/2-2 (NAIS_1780229699026.png)",
+      "status": "ready",
+      "path": "HL/2-2.webp",
+      "source": "NAIS_1780229699026.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "2-3",
+      "title": "HL/2-3 (NAIS_1780229712018.png)",
+      "status": "ready",
+      "path": "HL/2-3.webp",
+      "source": "NAIS_1780229712018.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "2-4",
+      "title": "HL/2-4 (NAIS_1780229764990.png)",
+      "status": "ready",
+      "path": "HL/2-4.webp",
+      "source": "NAIS_1780229764990.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "2-5",
+      "title": "HL/2-5 (NAIS_1780229933162.png)",
+      "status": "ready",
+      "path": "HL/2-5.webp",
+      "source": "NAIS_1780229933162.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "2-6",
+      "title": "HL/2-6 (NAIS_1780229998516.png)",
+      "status": "ready",
+      "path": "HL/2-6.webp",
+      "source": "NAIS_1780229998516.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "2-7",
+      "title": "HL/2-7 (NAIS_1780230011326.png)",
+      "status": "ready",
+      "path": "HL/2-7.webp",
+      "source": "NAIS_1780230011326.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "3-1",
+      "title": "HL/3-1 (NAIS_1780229353749.png)",
+      "status": "ready",
+      "path": "HL/3-1.webp",
+      "source": "NAIS_1780229353749.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "3-2",
+      "title": "HL/3-2 (NAIS_1780229377877.png)",
+      "status": "ready",
+      "path": "HL/3-2.webp",
+      "source": "NAIS_1780229377877.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "3-3",
+      "title": "HL/3-3 (NAIS_1780229440495.png)",
+      "status": "ready",
+      "path": "HL/3-3.webp",
+      "source": "NAIS_1780229440495.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "3-4",
+      "title": "HL/3-4 (NAIS_1780229491488.png)",
+      "status": "ready",
+      "path": "HL/3-4.webp",
+      "source": "NAIS_1780229491488.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "4-1",
+      "title": "HL/4-1 (NAIS_1779914917013.png)",
+      "status": "ready",
+      "path": "HL/4-1.webp",
+      "source": "NAIS_1779914917013.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "4-2",
+      "title": "HL/4-2 (NAIS_1780227691322.png)",
+      "status": "ready",
+      "path": "HL/4-2.webp",
+      "source": "NAIS_1780227691322.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "4-3",
+      "title": "HL/4-3 (NAIS_1780227715645.png)",
+      "status": "ready",
+      "path": "HL/4-3.webp",
+      "source": "NAIS_1780227715645.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "4-4",
+      "title": "HL/4-4 (NAIS_1780227785217.png)",
+      "status": "ready",
+      "path": "HL/4-4.webp",
+      "source": "NAIS_1780227785217.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "4-5",
+      "title": "HL/4-5 (NAIS_1780228012783.png)",
+      "status": "ready",
+      "path": "HL/4-5.webp",
+      "source": "NAIS_1780228012783.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "4-6",
+      "title": "HL/4-6 (NAIS_SCENE_1780184257810.png)",
+      "status": "ready",
+      "path": "HL/4-6.webp",
+      "source": "NAIS_SCENE_1780184257810.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "5-1",
+      "title": "HL/5-1 (NAIS_1780229829226.png)",
+      "status": "ready",
+      "path": "HL/5-1.webp",
+      "source": "NAIS_1780229829226.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "5-2",
+      "title": "HL/5-2 (NAIS_1780229841561.png)",
+      "status": "ready",
+      "path": "HL/5-2.webp",
+      "source": "NAIS_1780229841561.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "5-3",
+      "title": "HL/5-3 (NAIS_1780229854406.png)",
+      "status": "ready",
+      "path": "HL/5-3.webp",
+      "source": "NAIS_1780229854406.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "5-4",
+      "title": "HL/5-4 (NAIS_1780229867338.png)",
+      "status": "ready",
+      "path": "HL/5-4.webp",
+      "source": "NAIS_1780229867338.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "5-5",
+      "title": "HL/5-5 (NAIS_1780229959434.png)",
+      "status": "ready",
+      "path": "HL/5-5.webp",
+      "source": "NAIS_1780229959434.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "5-6",
+      "title": "HL/5-6 (NAIS_SCENE_1780184265154.png)",
+      "status": "ready",
+      "path": "HL/5-6.webp",
+      "source": "NAIS_SCENE_1780184265154.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "5-7",
+      "title": "HL/5-7 (NAIS_SCENE_1780184272047.png)",
+      "status": "ready",
+      "path": "HL/5-7.webp",
+      "source": "NAIS_SCENE_1780184272047.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "6-1",
+      "title": "HL/6-1 (NAIS_1780228545394.png)",
+      "status": "ready",
+      "path": "HL/6-1.webp",
+      "source": "NAIS_1780228545394.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "6-2",
+      "title": "HL/6-2 (NAIS_SCENE_1780180266799.png)",
+      "status": "ready",
+      "path": "HL/6-2.webp",
+      "source": "NAIS_SCENE_1780180266799.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "6-3",
+      "title": "HL/6-3 (NAIS_SCENE_1780180280406.png)",
+      "status": "ready",
+      "path": "HL/6-3.webp",
+      "source": "NAIS_SCENE_1780180280406.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "7-1",
+      "title": "HL/7-1 (NAIS_1780228850208.png)",
+      "status": "ready",
+      "path": "HL/7-1.webp",
+      "source": "NAIS_1780228850208.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "7-2",
+      "title": "HL/7-2 (NAIS_1780228984691.png)",
+      "status": "ready",
+      "path": "HL/7-2.webp",
+      "source": "NAIS_1780228984691.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "7-3",
+      "title": "HL/7-3 (NAIS_SCENE_1780180609058.png)",
+      "status": "ready",
+      "path": "HL/7-3.webp",
+      "source": "NAIS_SCENE_1780180609058.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "7-4",
+      "title": "HL/7-4 (NAIS_SCENE_1780184364374.png)",
+      "status": "ready",
+      "path": "HL/7-4.webp",
+      "source": "NAIS_SCENE_1780184364374.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "8-1",
+      "title": "HL/8-1 (NAIS_SCENE_1780180313531.png)",
+      "status": "ready",
+      "path": "HL/8-1.webp",
+      "source": "NAIS_SCENE_1780180313531.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "8-2",
+      "title": "HL/8-2 (NAIS_SCENE_1780180318505.png)",
+      "status": "ready",
+      "path": "HL/8-2.webp",
+      "source": "NAIS_SCENE_1780180318505.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "9-1",
+      "title": "HL/9-1 (NAIS_1779913040400.png)",
+      "status": "ready",
+      "path": "HL/9-1.webp",
+      "source": "NAIS_1779913040400.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "9-2",
+      "title": "HL/9-2 (NAIS_1779915186076.png)",
+      "status": "ready",
+      "path": "HL/9-2.webp",
+      "source": "NAIS_1779915186076.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "9-3",
+      "title": "HL/9-3 (NAIS_1780227940293.png)",
+      "status": "ready",
+      "path": "HL/9-3.webp",
+      "source": "NAIS_1780227940293.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A01-1",
+      "title": "HL/A01-1 (NAIS_SCENE_1780231116982.png)",
+      "status": "ready",
+      "path": "HL/A01-1.webp",
+      "source": "NAIS_SCENE_1780231116982.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A01-2",
+      "title": "HL/A01-2 (NAIS_SCENE_1780231131057.png)",
+      "status": "ready",
+      "path": "HL/A01-2.webp",
+      "source": "NAIS_SCENE_1780231131057.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A01-3",
+      "title": "HL/A01-3 (NAIS_SCENE_1780231159218.png)",
+      "status": "ready",
+      "path": "HL/A01-3.webp",
+      "source": "NAIS_SCENE_1780231159218.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A01-4",
+      "title": "HL/A01-4 (NAIS_SCENE_1780231228104.png)",
+      "status": "ready",
+      "path": "HL/A01-4.webp",
+      "source": "NAIS_SCENE_1780231228104.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A01-5",
+      "title": "HL/A01-5 (NAIS_SCENE_1780231242505.png)",
+      "status": "ready",
+      "path": "HL/A01-5.webp",
+      "source": "NAIS_SCENE_1780231242505.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A03-1",
+      "title": "HL/A03-1 (NAIS_SCENE_1780180641234.png)",
+      "status": "ready",
+      "path": "HL/A03-1.webp",
+      "source": "NAIS_SCENE_1780180641234.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A03-2",
+      "title": "HL/A03-2 (NAIS_SCENE_1780180646343.png)",
+      "status": "ready",
+      "path": "HL/A03-2.webp",
+      "source": "NAIS_SCENE_1780180646343.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A03-3",
+      "title": "HL/A03-3 (NAIS_SCENE_1780180651027.png)",
+      "status": "ready",
+      "path": "HL/A03-3.webp",
+      "source": "NAIS_SCENE_1780180651027.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A03-4",
+      "title": "HL/A03-4 (NAIS_SCENE_1780180656116.png)",
+      "status": "ready",
+      "path": "HL/A03-4.webp",
+      "source": "NAIS_SCENE_1780180656116.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A03-5",
+      "title": "HL/A03-5 (NAIS_SCENE_1780231617621.png)",
+      "status": "ready",
+      "path": "HL/A03-5.webp",
+      "source": "NAIS_SCENE_1780231617621.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A03-6",
+      "title": "HL/A03-6 (NAIS_SCENE_1780231674298.png)",
+      "status": "ready",
+      "path": "HL/A03-6.webp",
+      "source": "NAIS_SCENE_1780231674298.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "A03-7",
+      "title": "HL/A03-7 (NAIS_SCENE_1780231746564.png)",
+      "status": "ready",
+      "path": "HL/A03-7.webp",
+      "source": "NAIS_SCENE_1780231746564.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "B01-1",
+      "title": "HL/B01-1 (NAIS_SCENE_1780180400031.png)",
+      "status": "ready",
+      "path": "HL/B01-1.webp",
+      "source": "NAIS_SCENE_1780180400031.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "B01-2",
+      "title": "HL/B01-2 (NAIS_SCENE_1780180406510.png)",
+      "status": "ready",
+      "path": "HL/B01-2.webp",
+      "source": "NAIS_SCENE_1780180406510.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "B01-3",
+      "title": "HL/B01-3 (NAIS_SCENE_1780180411208.png)",
+      "status": "ready",
+      "path": "HL/B01-3.webp",
+      "source": "NAIS_SCENE_1780180411208.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "B01-4",
+      "title": "HL/B01-4 (NAIS_SCENE_1780180416065.png)",
+      "status": "ready",
+      "path": "HL/B01-4.webp",
+      "source": "NAIS_SCENE_1780180416065.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "B01-5",
+      "title": "HL/B01-5 (NAIS_SCENE_1780231324072.png)",
+      "status": "ready",
+      "path": "HL/B01-5.webp",
+      "source": "NAIS_SCENE_1780231324072.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "B01-6",
+      "title": "HL/B01-6 (NAIS_SCENE_1780231351064.png)",
+      "status": "ready",
+      "path": "HL/B01-6.webp",
+      "source": "NAIS_SCENE_1780231351064.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "B01-7",
+      "title": "HL/B01-7 (NAIS_SCENE_1780231409385.png)",
+      "status": "ready",
+      "path": "HL/B01-7.webp",
+      "source": "NAIS_SCENE_1780231409385.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "B01-8",
+      "title": "HL/B01-8 (NAIS_SCENE_1780231422830.png)",
+      "status": "ready",
+      "path": "HL/B01-8.webp",
+      "source": "NAIS_SCENE_1780231422830.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "C02-1",
+      "title": "HL/C02-1 (NAIS_SCENE_1780180551120.png)",
+      "status": "ready",
+      "path": "HL/C02-1.webp",
+      "source": "NAIS_SCENE_1780180551120.png",
+      "situation": "C02",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "C02-2",
+      "title": "HL/C02-2 (NAIS_SCENE_1780180560602.png)",
+      "status": "ready",
+      "path": "HL/C02-2.webp",
+      "source": "NAIS_SCENE_1780180560602.png",
+      "situation": "C02",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G01-1",
+      "title": "HL/G01-1 (NAIS_SCENE_1780180443118.png)",
+      "status": "ready",
+      "path": "HL/G01-1.webp",
+      "source": "NAIS_SCENE_1780180443118.png",
+      "situation": "G01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G01-2",
+      "title": "HL/G01-2 (NAIS_SCENE_1780184584111.png)",
+      "status": "ready",
+      "path": "HL/G01-2.webp",
+      "source": "NAIS_SCENE_1780184584111.png",
+      "situation": "G01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G01-3",
+      "title": "HL/G01-3 (NAIS_SCENE_1780184603116.png)",
+      "status": "ready",
+      "path": "HL/G01-3.webp",
+      "source": "NAIS_SCENE_1780184603116.png",
+      "situation": "G01",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G02-1",
+      "title": "HL/G02-1 (NAIS_SCENE_1780180380669.png)",
+      "status": "ready",
+      "path": "HL/G02-1.webp",
+      "source": "NAIS_SCENE_1780180380669.png",
+      "situation": "G02",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G02-2",
+      "title": "HL/G02-2 (NAIS_SCENE_1780180395327.png)",
+      "status": "ready",
+      "path": "HL/G02-2.webp",
+      "source": "NAIS_SCENE_1780180395327.png",
+      "situation": "G02",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G03-1",
+      "title": "HL/G03-1 (NAIS_SCENE_1780184622951.png)",
+      "status": "ready",
+      "path": "HL/G03-1.webp",
+      "source": "NAIS_SCENE_1780184622951.png",
+      "situation": "G03",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G04-1",
+      "title": "HL/G04-1 (NAIS_SCENE_1780233635713.png)",
+      "status": "ready",
+      "path": "HL/G04-1.webp",
+      "source": "NAIS_SCENE_1780233635713.png",
+      "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G04-2",
+      "title": "HL/G04-2 (NAIS_SCENE_1780233710424.png)",
+      "status": "ready",
+      "path": "HL/G04-2.webp",
+      "source": "NAIS_SCENE_1780233710424.png",
+      "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G04-3",
+      "title": "HL/G04-3 (NAIS_SCENE_1780233770334.png)",
+      "status": "ready",
+      "path": "HL/G04-3.webp",
+      "source": "NAIS_SCENE_1780233770334.png",
+      "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G04-4",
+      "title": "HL/G04-4 (NAIS_SCENE_1780233818651.png)",
+      "status": "ready",
+      "path": "HL/G04-4.webp",
+      "source": "NAIS_SCENE_1780233818651.png",
+      "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G04-5",
+      "title": "HL/G04-5 (NAIS_SCENE_1780234003747.png)",
+      "status": "ready",
+      "path": "HL/G04-5.webp",
+      "source": "NAIS_SCENE_1780234003747.png",
+      "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "G04-6",
+      "title": "HL/G04-6 (NAIS_SCENE_1780234017912.png)",
+      "status": "ready",
+      "path": "HL/G04-6.webp",
+      "source": "NAIS_SCENE_1780234017912.png",
+      "situation": "G04",
       "mode": "batch"
     },
     {
@@ -3179,101 +3039,21 @@
     },
     {
       "group": "HR",
-      "code": "2-1",
-      "title": "HR/2-1 (NAIS_1778980272954.png)",
-      "status": "ready",
-      "path": "HR/2-1.webp",
-      "source": "NAIS_1778980272954.png",
-      "situation": "2",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "3-1",
-      "title": "HR/3-1 (NAIS_1778987328937.png)",
-      "status": "ready",
-      "path": "HR/3-1.webp",
-      "source": "NAIS_1778987328937.png",
-      "situation": "3",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "4-1",
-      "title": "HR/4-1 (NAIS_1778987653909.png)",
-      "status": "ready",
-      "path": "HR/4-1.webp",
-      "source": "NAIS_1778987653909.png",
-      "situation": "4",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "5-1",
-      "title": "HR/5-1 (스크린샷 2026-05-18 194321.png)",
-      "status": "ready",
-      "path": "HR/5-1.webp",
-      "source": "스크린샷 2026-05-18 194321.png",
-      "situation": "5",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "6-1",
-      "title": "HR/6-1 (NAIS_1779082601087.png)",
-      "status": "ready",
-      "path": "HR/6-1.webp",
-      "source": "NAIS_1779082601087.png",
-      "situation": "6",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "7-1",
-      "title": "HR/7-1 (NAIS_1778987902371.png)",
-      "status": "ready",
-      "path": "HR/7-1.webp",
-      "source": "NAIS_1778987902371.png",
-      "situation": "7",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "7-2",
-      "title": "HR/7-2 (NAIS_1778988308508.png)",
-      "status": "ready",
-      "path": "HR/7-2.webp",
-      "source": "NAIS_1778988308508.png",
-      "situation": "7",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "8-1",
-      "title": "HR/8-1 (NAIS_1779088263324.png)",
-      "status": "ready",
-      "path": "HR/8-1.webp",
-      "source": "NAIS_1779088263324.png",
-      "situation": "8",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "9-1",
-      "title": "HR/9-1 (NAIS_1778587320248.png)",
-      "status": "ready",
-      "path": "HR/9-1.webp",
-      "source": "NAIS_1778587320248.png",
-      "situation": "9",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
       "code": "10-1",
       "title": "HR/10-1 (NAIS_1779088233988.png)",
       "status": "ready",
       "path": "HR/10-1.webp",
       "source": "NAIS_1779088233988.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "10-2",
+      "title": "HR/10-2 (NAIS_1779977825342.png)",
+      "status": "ready",
+      "path": "HR/10-2.webp",
+      "source": "NAIS_1779977825342.png",
       "situation": "10",
       "mode": "batch"
     },
@@ -3379,6 +3159,96 @@
     },
     {
       "group": "HR",
+      "code": "2-1",
+      "title": "HR/2-1 (NAIS_1778980272954.png)",
+      "status": "ready",
+      "path": "HR/2-1.webp",
+      "source": "NAIS_1778980272954.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "3-1",
+      "title": "HR/3-1 (NAIS_1778987328937.png)",
+      "status": "ready",
+      "path": "HR/3-1.webp",
+      "source": "NAIS_1778987328937.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "4-1",
+      "title": "HR/4-1 (NAIS_1778987653909.png)",
+      "status": "ready",
+      "path": "HR/4-1.webp",
+      "source": "NAIS_1778987653909.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "5-1",
+      "title": "HR/5-1 (스크린샷 2026-05-18 194321.png)",
+      "status": "ready",
+      "path": "HR/5-1.webp",
+      "source": "스크린샷 2026-05-18 194321.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "6-1",
+      "title": "HR/6-1 (NAIS_1779082601087.png)",
+      "status": "ready",
+      "path": "HR/6-1.webp",
+      "source": "NAIS_1779082601087.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "7-1",
+      "title": "HR/7-1 (NAIS_1778987902371.png)",
+      "status": "ready",
+      "path": "HR/7-1.webp",
+      "source": "NAIS_1778987902371.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "7-2",
+      "title": "HR/7-2 (NAIS_1778988308508.png)",
+      "status": "ready",
+      "path": "HR/7-2.webp",
+      "source": "NAIS_1778988308508.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "8-1",
+      "title": "HR/8-1 (NAIS_1779088263324.png)",
+      "status": "ready",
+      "path": "HR/8-1.webp",
+      "source": "NAIS_1779088263324.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "9-1",
+      "title": "HR/9-1 (NAIS_1778587320248.png)",
+      "status": "ready",
+      "path": "HR/9-1.webp",
+      "source": "NAIS_1778587320248.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
       "code": "A01-1",
       "title": "HR/A01-1 (NAIS_1779085443321.png)",
       "status": "ready",
@@ -3429,66 +3299,6 @@
     },
     {
       "group": "HR",
-      "code": "A04-1",
-      "title": "HR/A04-1 (NAIS_1779555173881.png)",
-      "status": "ready",
-      "path": "HR/A04-1.webp",
-      "source": "NAIS_1779555173881.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "A04-2",
-      "title": "HR/A04-2 (NAIS_1779555222585.png)",
-      "status": "ready",
-      "path": "HR/A04-2.webp",
-      "source": "NAIS_1779555222585.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "A04-3",
-      "title": "HR/A04-3 (NAIS_1779555353532.png)",
-      "status": "ready",
-      "path": "HR/A04-3.webp",
-      "source": "NAIS_1779555353532.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "A04-4",
-      "title": "HR/A04-4 (NAIS_1779555683488.png)",
-      "status": "ready",
-      "path": "HR/A04-4.webp",
-      "source": "NAIS_1779555683488.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "A04-5",
-      "title": "HR/A04-5 (NAIS_1779557869080.png)",
-      "status": "ready",
-      "path": "HR/A04-5.webp",
-      "source": "NAIS_1779557869080.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "A04-6",
-      "title": "HR/A04-6 (NAIS_1779557890696.png)",
-      "status": "ready",
-      "path": "HR/A04-6.webp",
-      "source": "NAIS_1779557890696.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
       "code": "B01-1",
       "title": "HR/B01-1 (NAIS_1779082466489.png)",
       "status": "ready",
@@ -3519,36 +3329,6 @@
     },
     {
       "group": "HR",
-      "code": "B03-1",
-      "title": "HR/B03-1 (NAIS_1778942470754.png)",
-      "status": "ready",
-      "path": "HR/B03-1.webp",
-      "source": "NAIS_1778942470754.png",
-      "situation": "B03",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "B03-2",
-      "title": "HR/B03-2 (NAIS_1778942681875.png)",
-      "status": "ready",
-      "path": "HR/B03-2.webp",
-      "source": "NAIS_1778942681875.png",
-      "situation": "B03",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "B03-3",
-      "title": "HR/B03-3 (NAIS_1778998423878.png)",
-      "status": "ready",
-      "path": "HR/B03-3.webp",
-      "source": "NAIS_1778998423878.png",
-      "situation": "B03",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
       "code": "C02-1",
       "title": "HR/C02-1 (NAIS_1779081755132.png)",
       "status": "ready",
@@ -3575,176 +3355,6 @@
       "path": "HR/C02-3.webp",
       "source": "NAIS_1779081812268.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "C03-1",
-      "title": "HR/C03-1 (NAIS_1779086170658.png)",
-      "status": "ready",
-      "path": "HR/C03-1.webp",
-      "source": "NAIS_1779086170658.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "C03-2",
-      "title": "HR/C03-2 (NAIS_1779086354728.png)",
-      "status": "ready",
-      "path": "HR/C03-2.webp",
-      "source": "NAIS_1779086354728.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "D02-1",
-      "title": "HR/D02-1 (NAIS_1778587398974.png)",
-      "status": "ready",
-      "path": "HR/D02-1.webp",
-      "source": "NAIS_1778587398974.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "E01-1",
-      "title": "HR/E01-1 (NAIS_1778989335528.png)",
-      "status": "ready",
-      "path": "HR/E01-1.webp",
-      "source": "NAIS_1778989335528.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "E01-2",
-      "title": "HR/E01-2 (NAIS_SCENE_1779096350468.png)",
-      "status": "ready",
-      "path": "HR/E01-2.webp",
-      "source": "NAIS_SCENE_1779096350468.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "E01-3",
-      "title": "HR/E01-3 (NAIS_SCENE_1779096358834.png)",
-      "status": "ready",
-      "path": "HR/E01-3.webp",
-      "source": "NAIS_SCENE_1779096358834.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "E01-4",
-      "title": "HR/E01-4 (NAIS_SCENE_1779096366736.png)",
-      "status": "ready",
-      "path": "HR/E01-4.webp",
-      "source": "NAIS_SCENE_1779096366736.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "E01-5",
-      "title": "HR/E01-5 (기본.png)",
-      "status": "ready",
-      "path": "HR/E01-5.webp",
-      "source": "기본.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "E01-6",
-      "title": "HR/E01-6 (슬픔.png)",
-      "status": "ready",
-      "path": "HR/E01-6.webp",
-      "source": "슬픔.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "E01-7",
-      "title": "HR/E01-7 (지침.png)",
-      "status": "ready",
-      "path": "HR/E01-7.webp",
-      "source": "지침.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "E02-1",
-      "title": "HR/E02-1 (NAIS_1778585833376.png)",
-      "status": "ready",
-      "path": "HR/E02-1.webp",
-      "source": "NAIS_1778585833376.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "F02-1",
-      "title": "HR/F02-1 (NAIS_1779012090971.png)",
-      "status": "ready",
-      "path": "HR/F02-1.webp",
-      "source": "NAIS_1779012090971.png",
-      "situation": "F02",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "F02-2",
-      "title": "HR/F02-2 (NAIS_1779012203626.png)",
-      "status": "ready",
-      "path": "HR/F02-2.webp",
-      "source": "NAIS_1779012203626.png",
-      "situation": "F02",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "F04-1",
-      "title": "HR/F04-1 (NAIS_1779522633162.png)",
-      "status": "ready",
-      "path": "HR/F04-1.webp",
-      "source": "NAIS_1779522633162.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "F04-2",
-      "title": "HR/F04-2 (NAIS_1779522642978.png)",
-      "status": "ready",
-      "path": "HR/F04-2.webp",
-      "source": "NAIS_1779522642978.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "F04-3",
-      "title": "HR/F04-3 (NAIS_1779522780667.png)",
-      "status": "ready",
-      "path": "HR/F04-3.webp",
-      "source": "NAIS_1779522780667.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "HR",
-      "code": "F04-4",
-      "title": "HR/F04-4 (NAIS_1779522830842.png)",
-      "status": "ready",
-      "path": "HR/F04-4.webp",
-      "source": "NAIS_1779522830842.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
@@ -3799,22 +3409,102 @@
     },
     {
       "group": "JW",
-      "code": "0-1",
-      "title": "JW/0-1 (이지우_id_card.png)",
-      "status": "ready",
-      "path": "JW/0-1.webp",
-      "source": "이지우_id_card.png",
-      "situation": "0",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
       "code": "1-1",
       "title": "JW/1-1 (NAIS_1779013318540.png)",
       "status": "ready",
       "path": "JW/1-1.webp",
       "source": "NAIS_1779013318540.png",
       "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "10-1",
+      "title": "JW/10-1 (NAIS_1778583470957.png)",
+      "status": "ready",
+      "path": "JW/10-1.webp",
+      "source": "NAIS_1778583470957.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "11-1",
+      "title": "JW/11-1 (NAIS_SCENE_1779089999325.png)",
+      "status": "ready",
+      "path": "JW/11-1.webp",
+      "source": "NAIS_SCENE_1779089999325.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "12-1",
+      "title": "JW/12-1 (NAIS_SCENE_1779090107247.png)",
+      "status": "ready",
+      "path": "JW/12-1.webp",
+      "source": "NAIS_SCENE_1779090107247.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "13-1",
+      "title": "JW/13-1 (NAIS_1779089454164.png)",
+      "status": "ready",
+      "path": "JW/13-1.webp",
+      "source": "NAIS_1779089454164.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "14-1",
+      "title": "JW/14-1 (NAIS_1778584609151.png)",
+      "status": "ready",
+      "path": "JW/14-1.webp",
+      "source": "NAIS_1778584609151.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "15-1",
+      "title": "JW/15-1 (NAIS_SCENE_1779090107247.png)",
+      "status": "ready",
+      "path": "JW/15-1.webp",
+      "source": "NAIS_SCENE_1779090107247.png",
+      "situation": "15",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "16-1",
+      "title": "JW/16-1 (NAIS_SCENE_1779526340213.png)",
+      "status": "ready",
+      "path": "JW/16-1.webp",
+      "source": "NAIS_SCENE_1779526340213.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "16-2",
+      "title": "JW/16-2 (NAIS_SCENE_1779526388214.png)",
+      "status": "ready",
+      "path": "JW/16-2.webp",
+      "source": "NAIS_SCENE_1779526388214.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "17-1",
+      "title": "JW/17-1 (NAIS_SCENE_1779096416857.png)",
+      "status": "ready",
+      "path": "JW/17-1.webp",
+      "source": "NAIS_SCENE_1779096416857.png",
+      "situation": "17",
       "mode": "batch"
     },
     {
@@ -3939,112 +3629,12 @@
     },
     {
       "group": "JW",
-      "code": "10-1",
-      "title": "JW/10-1 (NAIS_1778583470957.png)",
-      "status": "ready",
-      "path": "JW/10-1.webp",
-      "source": "NAIS_1778583470957.png",
-      "situation": "10",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "11-1",
-      "title": "JW/11-1 (NAIS_SCENE_1779089999325.png)",
-      "status": "ready",
-      "path": "JW/11-1.webp",
-      "source": "NAIS_SCENE_1779089999325.png",
-      "situation": "11",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "12-1",
-      "title": "JW/12-1 (NAIS_SCENE_1779090107247.png)",
-      "status": "ready",
-      "path": "JW/12-1.webp",
-      "source": "NAIS_SCENE_1779090107247.png",
-      "situation": "12",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "13-1",
-      "title": "JW/13-1 (NAIS_1779089454164.png)",
-      "status": "ready",
-      "path": "JW/13-1.webp",
-      "source": "NAIS_1779089454164.png",
-      "situation": "13",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "14-1",
-      "title": "JW/14-1 (NAIS_1778584609151.png)",
-      "status": "ready",
-      "path": "JW/14-1.webp",
-      "source": "NAIS_1778584609151.png",
-      "situation": "14",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "15-1",
-      "title": "JW/15-1 (NAIS_SCENE_1779090107247.png)",
-      "status": "ready",
-      "path": "JW/15-1.webp",
-      "source": "NAIS_SCENE_1779090107247.png",
-      "situation": "15",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "16-1",
-      "title": "JW/16-1 (NAIS_SCENE_1779526340213.png)",
-      "status": "ready",
-      "path": "JW/16-1.webp",
-      "source": "NAIS_SCENE_1779526340213.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "16-2",
-      "title": "JW/16-2 (NAIS_SCENE_1779526388214.png)",
-      "status": "ready",
-      "path": "JW/16-2.webp",
-      "source": "NAIS_SCENE_1779526388214.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "17-1",
-      "title": "JW/17-1 (NAIS_SCENE_1779096416857.png)",
-      "status": "ready",
-      "path": "JW/17-1.webp",
-      "source": "NAIS_SCENE_1779096416857.png",
-      "situation": "17",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
       "code": "A01-1",
       "title": "JW/A01-1 (NAIS_1779085460883.png)",
       "status": "ready",
       "path": "JW/A01-1.webp",
       "source": "NAIS_1779085460883.png",
       "situation": "A01",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A02-1",
-      "title": "JW/A02-1 (NAIS_1778584439156.png)",
-      "status": "ready",
-      "path": "JW/A02-1.webp",
-      "source": "NAIS_1778584439156.png",
-      "situation": "A02",
       "mode": "batch"
     },
     {
@@ -4069,106 +3659,6 @@
     },
     {
       "group": "JW",
-      "code": "A04-1",
-      "title": "JW/A04-1 (NAIS_1778584319541.png)",
-      "status": "ready",
-      "path": "JW/A04-1.webp",
-      "source": "NAIS_1778584319541.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-2",
-      "title": "JW/A04-2 (NAIS_1779076967849.png)",
-      "status": "ready",
-      "path": "JW/A04-2.webp",
-      "source": "NAIS_1779076967849.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-3",
-      "title": "JW/A04-3 (NAIS_1779555959062.png)",
-      "status": "ready",
-      "path": "JW/A04-3.webp",
-      "source": "NAIS_1779555959062.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-4",
-      "title": "JW/A04-4 (NAIS_1779556046343.png)",
-      "status": "ready",
-      "path": "JW/A04-4.webp",
-      "source": "NAIS_1779556046343.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-5",
-      "title": "JW/A04-5 (NAIS_1779556056679.png)",
-      "status": "ready",
-      "path": "JW/A04-5.webp",
-      "source": "NAIS_1779556056679.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-6",
-      "title": "JW/A04-6 (NAIS_1779556095445.png)",
-      "status": "ready",
-      "path": "JW/A04-6.webp",
-      "source": "NAIS_1779556095445.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-7",
-      "title": "JW/A04-7 (NAIS_1779556232642.png)",
-      "status": "ready",
-      "path": "JW/A04-7.webp",
-      "source": "NAIS_1779556232642.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-8",
-      "title": "JW/A04-8 (NAIS_1779556286124.png)",
-      "status": "ready",
-      "path": "JW/A04-8.webp",
-      "source": "NAIS_1779556286124.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-9",
-      "title": "JW/A04-9 (NAIS_1779556354193.png)",
-      "status": "ready",
-      "path": "JW/A04-9.webp",
-      "source": "NAIS_1779556354193.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "A04-10",
-      "title": "JW/A04-10 (NAIS_1779556387371.png)",
-      "status": "ready",
-      "path": "JW/A04-10.webp",
-      "source": "NAIS_1779556387371.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
       "code": "B01-1",
       "title": "JW/B01-1 (NAIS_1779083058594.png)",
       "status": "ready",
@@ -4179,142 +3669,12 @@
     },
     {
       "group": "JW",
-      "code": "B03-1",
-      "title": "JW/B03-1 (NAIS_1778584532893.png)",
-      "status": "ready",
-      "path": "JW/B03-1.webp",
-      "source": "NAIS_1778584532893.png",
-      "situation": "B03",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "C01-1",
-      "title": "JW/C01-1 (NAIS_1778584457004.png)",
-      "status": "ready",
-      "path": "JW/C01-1.webp",
-      "source": "NAIS_1778584457004.png",
-      "situation": "C01",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
       "code": "C02-1",
       "title": "JW/C02-1 (NAIS_1779081739784.png)",
       "status": "ready",
       "path": "JW/C02-1.webp",
       "source": "NAIS_1779081739784.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "C03-1",
-      "title": "JW/C03-1 (NAIS_1779086146685.png)",
-      "status": "ready",
-      "path": "JW/C03-1.webp",
-      "source": "NAIS_1779086146685.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "C03-2",
-      "title": "JW/C03-2 (NAIS_1779086154611.png)",
-      "status": "ready",
-      "path": "JW/C03-2.webp",
-      "source": "NAIS_1779086154611.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "D02-1",
-      "title": "JW/D02-1 (NAIS_SCENE_1779089962766.png)",
-      "status": "ready",
-      "path": "JW/D02-1.webp",
-      "source": "NAIS_SCENE_1779089962766.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "D03-1",
-      "title": "JW/D03-1 (NAIS_1778584484842.png)",
-      "status": "ready",
-      "path": "JW/D03-1.webp",
-      "source": "NAIS_1778584484842.png",
-      "situation": "D03",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "E01-1",
-      "title": "JW/E01-1 (NAIS_SCENE_1779096424555.png)",
-      "status": "ready",
-      "path": "JW/E01-1.webp",
-      "source": "NAIS_SCENE_1779096424555.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "E02-1",
-      "title": "JW/E02-1 (NAIS_SCENE_1779090069620.png)",
-      "status": "ready",
-      "path": "JW/E02-1.webp",
-      "source": "NAIS_SCENE_1779090069620.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "F04-1",
-      "title": "JW/F04-1 (NAIS_1778584037401.png)",
-      "status": "ready",
-      "path": "JW/F04-1.webp",
-      "source": "NAIS_1778584037401.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "F04-2",
-      "title": "JW/F04-2 (NAIS_1779522942167.png)",
-      "status": "ready",
-      "path": "JW/F04-2.webp",
-      "source": "NAIS_1779522942167.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "F04-3",
-      "title": "JW/F04-3 (NAIS_1779522962757.png)",
-      "status": "ready",
-      "path": "JW/F04-3.webp",
-      "source": "NAIS_1779522962757.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "F04-4",
-      "title": "JW/F04-4 (NAIS_1779522973318.png)",
-      "status": "ready",
-      "path": "JW/F04-4.webp",
-      "source": "NAIS_1779522973318.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "JW",
-      "code": "F04-5",
-      "title": "JW/F04-5 (NAIS_1779522983399.png)",
-      "status": "ready",
-      "path": "JW/F04-5.webp",
-      "source": "NAIS_1779522983399.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
@@ -4378,13 +3738,803 @@
       "mode": "batch"
     },
     {
-      "group": "SH",
-      "code": "0-1",
-      "title": "SH/0-1 (채서하_id_card (4).png)",
+      "group": "RY",
+      "code": "1-1",
+      "title": "RY/1-1 (NAIS_1779916680268.png)",
       "status": "ready",
-      "path": "SH/0-1.webp",
-      "source": "채서하_id_card (4).png",
-      "situation": "0",
+      "path": "RY/1-1.webp",
+      "source": "NAIS_1779916680268.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "1-2",
+      "title": "RY/1-2 (NAIS_1779916950675.png)",
+      "status": "ready",
+      "path": "RY/1-2.webp",
+      "source": "NAIS_1779916950675.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "1-3",
+      "title": "RY/1-3 (NAIS_1779966098992.png)",
+      "status": "ready",
+      "path": "RY/1-3.webp",
+      "source": "NAIS_1779966098992.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "1-4",
+      "title": "RY/1-4 (NAIS_SCENE_1780185468067.png)",
+      "status": "ready",
+      "path": "RY/1-4.webp",
+      "source": "NAIS_SCENE_1780185468067.png",
+      "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "10-1",
+      "title": "RY/10-1 (NAIS_1779909518237.png)",
+      "status": "ready",
+      "path": "RY/10-1.webp",
+      "source": "NAIS_1779909518237.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "10-2",
+      "title": "RY/10-2 (NAIS_1779916771987.png)",
+      "status": "ready",
+      "path": "RY/10-2.webp",
+      "source": "NAIS_1779916771987.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "10-3",
+      "title": "RY/10-3 (NAIS_1779916891989.png)",
+      "status": "ready",
+      "path": "RY/10-3.webp",
+      "source": "NAIS_1779916891989.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "10-4",
+      "title": "RY/10-4 (NAIS_SCENE_1780186947108.png)",
+      "status": "ready",
+      "path": "RY/10-4.webp",
+      "source": "NAIS_SCENE_1780186947108.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "11-1",
+      "title": "RY/11-1 (NAIS_SCENE_1780185205936.png)",
+      "status": "ready",
+      "path": "RY/11-1.webp",
+      "source": "NAIS_SCENE_1780185205936.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "11-2",
+      "title": "RY/11-2 (NAIS_SCENE_1780185223561.png)",
+      "status": "ready",
+      "path": "RY/11-2.webp",
+      "source": "NAIS_SCENE_1780185223561.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "12-1",
+      "title": "RY/12-1 (NAIS_SCENE_1780185576220.png)",
+      "status": "ready",
+      "path": "RY/12-1.webp",
+      "source": "NAIS_SCENE_1780185576220.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "12-2",
+      "title": "RY/12-2 (NAIS_SCENE_1780185582053.png)",
+      "status": "ready",
+      "path": "RY/12-2.webp",
+      "source": "NAIS_SCENE_1780185582053.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "12-3",
+      "title": "RY/12-3 (NAIS_SCENE_1780185588030.png)",
+      "status": "ready",
+      "path": "RY/12-3.webp",
+      "source": "NAIS_SCENE_1780185588030.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "12-4",
+      "title": "RY/12-4 (NAIS_SCENE_1780185601453.png)",
+      "status": "ready",
+      "path": "RY/12-4.webp",
+      "source": "NAIS_SCENE_1780185601453.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "13-1",
+      "title": "RY/13-1 (NAIS_1779926703549.png)",
+      "status": "ready",
+      "path": "RY/13-1.webp",
+      "source": "NAIS_1779926703549.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "13-2",
+      "title": "RY/13-2 (NAIS_1779926789386.png)",
+      "status": "ready",
+      "path": "RY/13-2.webp",
+      "source": "NAIS_1779926789386.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "13-3",
+      "title": "RY/13-3 (NAIS_SCENE_1780189046936.png)",
+      "status": "ready",
+      "path": "RY/13-3.webp",
+      "source": "NAIS_SCENE_1780189046936.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "14-1",
+      "title": "RY/14-1 (NAIS_SCENE_1780185350782.png)",
+      "status": "ready",
+      "path": "RY/14-1.webp",
+      "source": "NAIS_SCENE_1780185350782.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "14-2",
+      "title": "RY/14-2 (NAIS_SCENE_1780185613274.png)",
+      "status": "ready",
+      "path": "RY/14-2.webp",
+      "source": "NAIS_SCENE_1780185613274.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "14-3",
+      "title": "RY/14-3 (NAIS_SCENE_1780185620403.png)",
+      "status": "ready",
+      "path": "RY/14-3.webp",
+      "source": "NAIS_SCENE_1780185620403.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "15-1",
+      "title": "RY/15-1 (NAIS_1780225310100.png)",
+      "status": "ready",
+      "path": "RY/15-1.webp",
+      "source": "NAIS_1780225310100.png",
+      "situation": "15",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "15-2",
+      "title": "RY/15-2 (NAIS_1780226158807.png)",
+      "status": "ready",
+      "path": "RY/15-2.webp",
+      "source": "NAIS_1780226158807.png",
+      "situation": "15",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "15-3",
+      "title": "RY/15-3 (NAIS_1780226269728.png)",
+      "status": "ready",
+      "path": "RY/15-3.webp",
+      "source": "NAIS_1780226269728.png",
+      "situation": "15",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "16-1",
+      "title": "RY/16-1 (NAIS_1779922616332.png)",
+      "status": "ready",
+      "path": "RY/16-1.webp",
+      "source": "NAIS_1779922616332.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "16-2",
+      "title": "RY/16-2 (NAIS_1780225635469.png)",
+      "status": "ready",
+      "path": "RY/16-2.webp",
+      "source": "NAIS_1780225635469.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "16-3",
+      "title": "RY/16-3 (NAIS_SCENE_1780186566340.png)",
+      "status": "ready",
+      "path": "RY/16-3.webp",
+      "source": "NAIS_SCENE_1780186566340.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "17-1",
+      "title": "RY/17-1 (NAIS_SCENE_1780185626409.png)",
+      "status": "ready",
+      "path": "RY/17-1.webp",
+      "source": "NAIS_SCENE_1780185626409.png",
+      "situation": "17",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "2-1",
+      "title": "RY/2-1 (NAIS_1779916746881.png)",
+      "status": "ready",
+      "path": "RY/2-1.webp",
+      "source": "NAIS_1779916746881.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "2-2",
+      "title": "RY/2-2 (NAIS_SCENE_1780185035317.png)",
+      "status": "ready",
+      "path": "RY/2-2.webp",
+      "source": "NAIS_SCENE_1780185035317.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "2-3",
+      "title": "RY/2-3 (NAIS_SCENE_1780185041942.png)",
+      "status": "ready",
+      "path": "RY/2-3.webp",
+      "source": "NAIS_SCENE_1780185041942.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "2-4",
+      "title": "RY/2-4 (NAIS_SCENE_1780185087603.png)",
+      "status": "ready",
+      "path": "RY/2-4.webp",
+      "source": "NAIS_SCENE_1780185087603.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "3-1",
+      "title": "RY/3-1 (NAIS_1780225827982.png)",
+      "status": "ready",
+      "path": "RY/3-1.webp",
+      "source": "NAIS_1780225827982.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "3-2",
+      "title": "RY/3-2 (NAIS_SCENE_1780185081234.png)",
+      "status": "ready",
+      "path": "RY/3-2.webp",
+      "source": "NAIS_SCENE_1780185081234.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "3-3",
+      "title": "RY/3-3 (NAIS_SCENE_1780186588078.png)",
+      "status": "ready",
+      "path": "RY/3-3.webp",
+      "source": "NAIS_SCENE_1780186588078.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "4-1",
+      "title": "RY/4-1 (NAIS_SCENE_1780185105515.png)",
+      "status": "ready",
+      "path": "RY/4-1.webp",
+      "source": "NAIS_SCENE_1780185105515.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "4-2",
+      "title": "RY/4-2 (NAIS_SCENE_1780185111712.png)",
+      "status": "ready",
+      "path": "RY/4-2.webp",
+      "source": "NAIS_SCENE_1780185111712.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "4-3",
+      "title": "RY/4-3 (NAIS_SCENE_1780186968014.png)",
+      "status": "ready",
+      "path": "RY/4-3.webp",
+      "source": "NAIS_SCENE_1780186968014.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "4-4",
+      "title": "RY/4-4 (NAIS_SCENE_1780188800384.png)",
+      "status": "ready",
+      "path": "RY/4-4.webp",
+      "source": "NAIS_SCENE_1780188800384.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "5-1",
+      "title": "RY/5-1 (NAIS_SCENE_1780185124482.png)",
+      "status": "ready",
+      "path": "RY/5-1.webp",
+      "source": "NAIS_SCENE_1780185124482.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "5-2",
+      "title": "RY/5-2 (NAIS_SCENE_1780185147563.png)",
+      "status": "ready",
+      "path": "RY/5-2.webp",
+      "source": "NAIS_SCENE_1780185147563.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "5-3",
+      "title": "RY/5-3 (NAIS_SCENE_1780185159186.png)",
+      "status": "ready",
+      "path": "RY/5-3.webp",
+      "source": "NAIS_SCENE_1780185159186.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "5-4",
+      "title": "RY/5-4 (NAIS_SCENE_1780186649194.png)",
+      "status": "ready",
+      "path": "RY/5-4.webp",
+      "source": "NAIS_SCENE_1780186649194.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "6-1",
+      "title": "RY/6-1 (NAIS_SCENE_1780185176036.png)",
+      "status": "ready",
+      "path": "RY/6-1.webp",
+      "source": "NAIS_SCENE_1780185176036.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "6-2",
+      "title": "RY/6-2 (NAIS_SCENE_1780185181854.png)",
+      "status": "ready",
+      "path": "RY/6-2.webp",
+      "source": "NAIS_SCENE_1780185181854.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "6-3",
+      "title": "RY/6-3 (NAIS_SCENE_1780185262242.png)",
+      "status": "ready",
+      "path": "RY/6-3.webp",
+      "source": "NAIS_SCENE_1780185262242.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "7-1",
+      "title": "RY/7-1 (NAIS_SCENE_1780185187875.png)",
+      "status": "ready",
+      "path": "RY/7-1.webp",
+      "source": "NAIS_SCENE_1780185187875.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "8-1",
+      "title": "RY/8-1 (NAIS_1779900072947.png)",
+      "status": "ready",
+      "path": "RY/8-1.webp",
+      "source": "NAIS_1779900072947.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "8-2",
+      "title": "RY/8-2 (NAIS_SCENE_1780185275880.png)",
+      "status": "ready",
+      "path": "RY/8-2.webp",
+      "source": "NAIS_SCENE_1780185275880.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "8-3",
+      "title": "RY/8-3 (NAIS_SCENE_1780186787936.png)",
+      "status": "ready",
+      "path": "RY/8-3.webp",
+      "source": "NAIS_SCENE_1780186787936.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "9-1",
+      "title": "RY/9-1 (NAIS_SCENE_1780185236183.png)",
+      "status": "ready",
+      "path": "RY/9-1.webp",
+      "source": "NAIS_SCENE_1780185236183.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "9-2",
+      "title": "RY/9-2 (NAIS_SCENE_1780185899554.png)",
+      "status": "ready",
+      "path": "RY/9-2.webp",
+      "source": "NAIS_SCENE_1780185899554.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "9-3",
+      "title": "RY/9-3 (NAIS_SCENE_1780185906723.png)",
+      "status": "ready",
+      "path": "RY/9-3.webp",
+      "source": "NAIS_SCENE_1780185906723.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "9-4",
+      "title": "RY/9-4 (NAIS_SCENE_1780185912789.png)",
+      "status": "ready",
+      "path": "RY/9-4.webp",
+      "source": "NAIS_SCENE_1780185912789.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "9-5",
+      "title": "RY/9-5 (NAIS_SCENE_1780185919481.png)",
+      "status": "ready",
+      "path": "RY/9-5.webp",
+      "source": "NAIS_SCENE_1780185919481.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A01-1",
+      "title": "RY/A01-1 (NAIS_SCENE_1780230906214.png)",
+      "status": "ready",
+      "path": "RY/A01-1.webp",
+      "source": "NAIS_SCENE_1780230906214.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A01-2",
+      "title": "RY/A01-2 (NAIS_SCENE_1780230960306.png)",
+      "status": "ready",
+      "path": "RY/A01-2.webp",
+      "source": "NAIS_SCENE_1780230960306.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A01-3",
+      "title": "RY/A01-3 (NAIS_SCENE_1780230987424.png)",
+      "status": "ready",
+      "path": "RY/A01-3.webp",
+      "source": "NAIS_SCENE_1780230987424.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A01-4",
+      "title": "RY/A01-4 (NAIS_SCENE_1780231016626.png)",
+      "status": "ready",
+      "path": "RY/A01-4.webp",
+      "source": "NAIS_SCENE_1780231016626.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A01-5",
+      "title": "RY/A01-5 (NAIS_SCENE_1780231030667.png)",
+      "status": "ready",
+      "path": "RY/A01-5.webp",
+      "source": "NAIS_SCENE_1780231030667.png",
+      "situation": "A01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A03-1",
+      "title": "RY/A03-1 (NAIS_SCENE_1780231789102.png)",
+      "status": "ready",
+      "path": "RY/A03-1.webp",
+      "source": "NAIS_SCENE_1780231789102.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A03-2",
+      "title": "RY/A03-2 (NAIS_SCENE_1780231871881.png)",
+      "status": "ready",
+      "path": "RY/A03-2.webp",
+      "source": "NAIS_SCENE_1780231871881.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A03-3",
+      "title": "RY/A03-3 (NAIS_SCENE_1780231987564.png)",
+      "status": "ready",
+      "path": "RY/A03-3.webp",
+      "source": "NAIS_SCENE_1780231987564.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "A03-4",
+      "title": "RY/A03-4 (NAIS_SCENE_1780232251821.png)",
+      "status": "ready",
+      "path": "RY/A03-4.webp",
+      "source": "NAIS_SCENE_1780232251821.png",
+      "situation": "A03",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "B01-1",
+      "title": "RY/B01-1 (NAIS_SCENE_1780185406720.png)",
+      "status": "ready",
+      "path": "RY/B01-1.webp",
+      "source": "NAIS_SCENE_1780185406720.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "B01-2",
+      "title": "RY/B01-2 (NAIS_SCENE_1780185427842.png)",
+      "status": "ready",
+      "path": "RY/B01-2.webp",
+      "source": "NAIS_SCENE_1780185427842.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "B01-3",
+      "title": "RY/B01-3 (NAIS_SCENE_1780185441714.png)",
+      "status": "ready",
+      "path": "RY/B01-3.webp",
+      "source": "NAIS_SCENE_1780185441714.png",
+      "situation": "B01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "C02-1",
+      "title": "RY/C02-1 (NAIS_SCENE_1780185767268.png)",
+      "status": "ready",
+      "path": "RY/C02-1.webp",
+      "source": "NAIS_SCENE_1780185767268.png",
+      "situation": "C02",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "C02-2",
+      "title": "RY/C02-2 (NAIS_SCENE_1780185774386.png)",
+      "status": "ready",
+      "path": "RY/C02-2.webp",
+      "source": "NAIS_SCENE_1780185774386.png",
+      "situation": "C02",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "C02-3",
+      "title": "RY/C02-3 (NAIS_SCENE_1780185781823.png)",
+      "status": "ready",
+      "path": "RY/C02-3.webp",
+      "source": "NAIS_SCENE_1780185781823.png",
+      "situation": "C02",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G01-1",
+      "title": "RY/G01-1 (NAIS_SCENE_1780185501182.png)",
+      "status": "ready",
+      "path": "RY/G01-1.webp",
+      "source": "NAIS_SCENE_1780185501182.png",
+      "situation": "G01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G01-2",
+      "title": "RY/G01-2 (NAIS_SCENE_1780185514556.png)",
+      "status": "ready",
+      "path": "RY/G01-2.webp",
+      "source": "NAIS_SCENE_1780185514556.png",
+      "situation": "G01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G01-3",
+      "title": "RY/G01-3 (NAIS_SCENE_1780186883592.png)",
+      "status": "ready",
+      "path": "RY/G01-3.webp",
+      "source": "NAIS_SCENE_1780186883592.png",
+      "situation": "G01",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G02-1",
+      "title": "RY/G02-1 (NAIS_SCENE_1780185378600.png)",
+      "status": "ready",
+      "path": "RY/G02-1.webp",
+      "source": "NAIS_SCENE_1780185378600.png",
+      "situation": "G02",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G02-2",
+      "title": "RY/G02-2 (NAIS_SCENE_1780185391842.png)",
+      "status": "ready",
+      "path": "RY/G02-2.webp",
+      "source": "NAIS_SCENE_1780185391842.png",
+      "situation": "G02",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G02-3",
+      "title": "RY/G02-3 (NAIS_SCENE_1780185399082.png)",
+      "status": "ready",
+      "path": "RY/G02-3.webp",
+      "source": "NAIS_SCENE_1780185399082.png",
+      "situation": "G02",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G03-1",
+      "title": "RY/G03-1 (NAIS_SCENE_1780185645624.png)",
+      "status": "ready",
+      "path": "RY/G03-1.webp",
+      "source": "NAIS_SCENE_1780185645624.png",
+      "situation": "G03",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G04-1",
+      "title": "RY/G04-1 (NAIS_SCENE_1780232726919.png)",
+      "status": "ready",
+      "path": "RY/G04-1.webp",
+      "source": "NAIS_SCENE_1780232726919.png",
+      "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G04-2",
+      "title": "RY/G04-2 (NAIS_SCENE_1780232839116.png)",
+      "status": "ready",
+      "path": "RY/G04-2.webp",
+      "source": "NAIS_SCENE_1780232839116.png",
+      "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G04-3",
+      "title": "RY/G04-3 (NAIS_SCENE_1780232866076.png)",
+      "status": "ready",
+      "path": "RY/G04-3.webp",
+      "source": "NAIS_SCENE_1780232866076.png",
+      "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "G04-4",
+      "title": "RY/G04-4 (NAIS_SCENE_1780232992036.png)",
+      "status": "ready",
+      "path": "RY/G04-4.webp",
+      "source": "NAIS_SCENE_1780232992036.png",
+      "situation": "G04",
       "mode": "batch"
     },
     {
@@ -4395,6 +4545,116 @@
       "path": "SH/1-1.webp",
       "source": "NAIS_1778576425141.png",
       "situation": "1",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "10-1",
+      "title": "SH/10-1 (NAIS_1779546581679.png)",
+      "status": "ready",
+      "path": "SH/10-1.webp",
+      "source": "NAIS_1779546581679.png",
+      "situation": "10",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "11-1",
+      "title": "SH/11-1 (NAIS_1779542975583.png)",
+      "status": "ready",
+      "path": "SH/11-1.webp",
+      "source": "NAIS_1779542975583.png",
+      "situation": "11",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "12-1",
+      "title": "SH/12-1 (NAIS_1778579135069.png)",
+      "status": "ready",
+      "path": "SH/12-1.webp",
+      "source": "NAIS_1778579135069.png",
+      "situation": "12",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "13-1",
+      "title": "SH/13-1 (NAIS_1778576708899.png)",
+      "status": "ready",
+      "path": "SH/13-1.webp",
+      "source": "NAIS_1778576708899.png",
+      "situation": "13",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "14-1",
+      "title": "SH/14-1 (NAIS_1779089394508.png)",
+      "status": "ready",
+      "path": "SH/14-1.webp",
+      "source": "NAIS_1779089394508.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "14-2",
+      "title": "SH/14-2 (NAIS_SCENE_1779090499930.png)",
+      "status": "ready",
+      "path": "SH/14-2.webp",
+      "source": "NAIS_SCENE_1779090499930.png",
+      "situation": "14",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "15-1",
+      "title": "SH/15-1 (NAIS_1778573060161.png)",
+      "status": "ready",
+      "path": "SH/15-1.webp",
+      "source": "NAIS_1778573060161.png",
+      "situation": "15",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "16-1",
+      "title": "SH/16-1 (NAIS_1779527142793.png)",
+      "status": "ready",
+      "path": "SH/16-1.webp",
+      "source": "NAIS_1779527142793.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "16-2",
+      "title": "SH/16-2 (NAIS_1779527256067.png)",
+      "status": "ready",
+      "path": "SH/16-2.webp",
+      "source": "NAIS_1779527256067.png",
+      "situation": "16",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "17-1",
+      "title": "SH/17-1 (NAIS_1779089402588.png)",
+      "status": "ready",
+      "path": "SH/17-1.webp",
+      "source": "NAIS_1779089402588.png",
+      "situation": "17",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "17-2",
+      "title": "SH/17-2 (NAIS_1779089409472.png)",
+      "status": "ready",
+      "path": "SH/17-2.webp",
+      "source": "NAIS_1779089409472.png",
+      "situation": "17",
       "mode": "batch"
     },
     {
@@ -4589,116 +4849,6 @@
     },
     {
       "group": "SH",
-      "code": "10-1",
-      "title": "SH/10-1 (NAIS_1779546581679.png)",
-      "status": "ready",
-      "path": "SH/10-1.webp",
-      "source": "NAIS_1779546581679.png",
-      "situation": "10",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "11-1",
-      "title": "SH/11-1 (NAIS_1779542975583.png)",
-      "status": "ready",
-      "path": "SH/11-1.webp",
-      "source": "NAIS_1779542975583.png",
-      "situation": "11",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "12-1",
-      "title": "SH/12-1 (NAIS_1778579135069.png)",
-      "status": "ready",
-      "path": "SH/12-1.webp",
-      "source": "NAIS_1778579135069.png",
-      "situation": "12",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "13-1",
-      "title": "SH/13-1 (NAIS_1778576708899.png)",
-      "status": "ready",
-      "path": "SH/13-1.webp",
-      "source": "NAIS_1778576708899.png",
-      "situation": "13",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "14-1",
-      "title": "SH/14-1 (NAIS_1779089394508.png)",
-      "status": "ready",
-      "path": "SH/14-1.webp",
-      "source": "NAIS_1779089394508.png",
-      "situation": "14",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "14-2",
-      "title": "SH/14-2 (NAIS_SCENE_1779090499930.png)",
-      "status": "ready",
-      "path": "SH/14-2.webp",
-      "source": "NAIS_SCENE_1779090499930.png",
-      "situation": "14",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "15-1",
-      "title": "SH/15-1 (NAIS_1778573060161.png)",
-      "status": "ready",
-      "path": "SH/15-1.webp",
-      "source": "NAIS_1778573060161.png",
-      "situation": "15",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "16-1",
-      "title": "SH/16-1 (NAIS_1779527142793.png)",
-      "status": "ready",
-      "path": "SH/16-1.webp",
-      "source": "NAIS_1779527142793.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "16-2",
-      "title": "SH/16-2 (NAIS_1779527256067.png)",
-      "status": "ready",
-      "path": "SH/16-2.webp",
-      "source": "NAIS_1779527256067.png",
-      "situation": "16",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "17-1",
-      "title": "SH/17-1 (NAIS_1779089402588.png)",
-      "status": "ready",
-      "path": "SH/17-1.webp",
-      "source": "NAIS_1779089402588.png",
-      "situation": "17",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "17-2",
-      "title": "SH/17-2 (NAIS_1779089409472.png)",
-      "status": "ready",
-      "path": "SH/17-2.webp",
-      "source": "NAIS_1779089409472.png",
-      "situation": "17",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
       "code": "A01-1",
       "title": "SH/A01-1 (NAIS_1779084357342.png)",
       "status": "ready",
@@ -4779,16 +4929,6 @@
     },
     {
       "group": "SH",
-      "code": "A02-1",
-      "title": "SH/A02-1 (NAIS_SCENE_1779468303012.png)",
-      "status": "ready",
-      "path": "SH/A02-1.webp",
-      "source": "NAIS_SCENE_1779468303012.png",
-      "situation": "A02",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
       "code": "A03-1",
       "title": "SH/A03-1 (NAIS_1779083571294.png)",
       "status": "ready",
@@ -4815,106 +4955,6 @@
       "path": "SH/A03-3.webp",
       "source": "NAIS_1779083921475.png",
       "situation": "A03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-1",
-      "title": "SH/A04-1 (서하_해변.png)",
-      "status": "ready",
-      "path": "SH/A04-1.webp",
-      "source": "서하_해변.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-2",
-      "title": "SH/A04-2 (NAIS_1779076892281.png)",
-      "status": "ready",
-      "path": "SH/A04-2.webp",
-      "source": "NAIS_1779076892281.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-3",
-      "title": "SH/A04-3 (NAIS_1779548728836.png)",
-      "status": "ready",
-      "path": "SH/A04-3.webp",
-      "source": "NAIS_1779548728836.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-4",
-      "title": "SH/A04-4 (NAIS_1779549601106.png)",
-      "status": "ready",
-      "path": "SH/A04-4.webp",
-      "source": "NAIS_1779549601106.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-5",
-      "title": "SH/A04-5 (NAIS_1779550110872.png)",
-      "status": "ready",
-      "path": "SH/A04-5.webp",
-      "source": "NAIS_1779550110872.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-6",
-      "title": "SH/A04-6 (NAIS_1779553504137.png)",
-      "status": "ready",
-      "path": "SH/A04-6.webp",
-      "source": "NAIS_1779553504137.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-7",
-      "title": "SH/A04-7 (NAIS_1779553531733.png)",
-      "status": "ready",
-      "path": "SH/A04-7.webp",
-      "source": "NAIS_1779553531733.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-8",
-      "title": "SH/A04-8 (NAIS_1779553598548.png)",
-      "status": "ready",
-      "path": "SH/A04-8.webp",
-      "source": "NAIS_1779553598548.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-9",
-      "title": "SH/A04-9 (NAIS_1779557535170.png)",
-      "status": "ready",
-      "path": "SH/A04-9.webp",
-      "source": "NAIS_1779557535170.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "A04-10",
-      "title": "SH/A04-10 (NAIS_1779557654475.png)",
-      "status": "ready",
-      "path": "SH/A04-10.webp",
-      "source": "NAIS_1779557654475.png",
-      "situation": "A04",
       "mode": "batch"
     },
     {
@@ -4959,36 +4999,6 @@
     },
     {
       "group": "SH",
-      "code": "B03-1",
-      "title": "SH/B03-1 (NAIS_1779082737185.png)",
-      "status": "ready",
-      "path": "SH/B03-1.webp",
-      "source": "NAIS_1779082737185.png",
-      "situation": "B03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "C01-1",
-      "title": "SH/C01-1 (NAIS_1778570287101.png)",
-      "status": "ready",
-      "path": "SH/C01-1.webp",
-      "source": "NAIS_1778570287101.png",
-      "situation": "C01",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "C01-2",
-      "title": "SH/C01-2 (NAIS_1778575589205.png)",
-      "status": "ready",
-      "path": "SH/C01-2.webp",
-      "source": "NAIS_1778575589205.png",
-      "situation": "C01",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
       "code": "C02-1",
       "title": "SH/C02-1 (NAIS_1779080115386.png)",
       "status": "ready",
@@ -5015,236 +5025,6 @@
       "path": "SH/C02-3.webp",
       "source": "NAIS_1779081463056.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "C03-1",
-      "title": "SH/C03-1 (NAIS_1779086064550.png)",
-      "status": "ready",
-      "path": "SH/C03-1.webp",
-      "source": "NAIS_1779086064550.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "C03-2",
-      "title": "SH/C03-2 (NAIS_1779086121188.png)",
-      "status": "ready",
-      "path": "SH/C03-2.webp",
-      "source": "NAIS_1779086121188.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "C03-3",
-      "title": "SH/C03-3 (NAIS_1779086403174.png)",
-      "status": "ready",
-      "path": "SH/C03-3.webp",
-      "source": "NAIS_1779086403174.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "C03-4",
-      "title": "SH/C03-4 (NAIS_1779086426053.png)",
-      "status": "ready",
-      "path": "SH/C03-4.webp",
-      "source": "NAIS_1779086426053.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "D02-1",
-      "title": "SH/D02-1 (NAIS_1778577277039.png)",
-      "status": "ready",
-      "path": "SH/D02-1.webp",
-      "source": "NAIS_1778577277039.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "D02-2",
-      "title": "SH/D02-2 (NAIS_1778577326465.png)",
-      "status": "ready",
-      "path": "SH/D02-2.webp",
-      "source": "NAIS_1778577326465.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "D03-1",
-      "title": "SH/D03-1 (NAIS_1778571803985.png)",
-      "status": "ready",
-      "path": "SH/D03-1.webp",
-      "source": "NAIS_1778571803985.png",
-      "situation": "D03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "D03-2",
-      "title": "SH/D03-2 (NAIS_1778573843185.png)",
-      "status": "ready",
-      "path": "SH/D03-2.webp",
-      "source": "NAIS_1778573843185.png",
-      "situation": "D03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "D04-1",
-      "title": "SH/D04-1 (NAIS_1778573625841.png)",
-      "status": "ready",
-      "path": "SH/D04-1.webp",
-      "source": "NAIS_1778573625841.png",
-      "situation": "D04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "E01-1",
-      "title": "SH/E01-1 (NAIS_1778741523771.png)",
-      "status": "ready",
-      "path": "SH/E01-1.webp",
-      "source": "NAIS_1778741523771.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "E01-2",
-      "title": "SH/E01-2 (NAIS_1778741618302.png)",
-      "status": "ready",
-      "path": "SH/E01-2.webp",
-      "source": "NAIS_1778741618302.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "E01-3",
-      "title": "SH/E01-3 (NAIS_1778741664161.png)",
-      "status": "ready",
-      "path": "SH/E01-3.webp",
-      "source": "NAIS_1778741664161.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "E02-1",
-      "title": "SH/E02-1 (NAIS_SCENE_1779090499930.png)",
-      "status": "ready",
-      "path": "SH/E02-1.webp",
-      "source": "NAIS_SCENE_1779090499930.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "E02-2",
-      "title": "SH/E02-2 (NAIS_SCENE_1779090507081.png)",
-      "status": "ready",
-      "path": "SH/E02-2.webp",
-      "source": "NAIS_SCENE_1779090507081.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F01-1",
-      "title": "SH/F01-1 (NAIS_1779079928788.png)",
-      "status": "ready",
-      "path": "SH/F01-1.webp",
-      "source": "NAIS_1779079928788.png",
-      "situation": "F01",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F02-1",
-      "title": "SH/F02-1 (NAIS_1779012231925.png)",
-      "status": "ready",
-      "path": "SH/F02-1.webp",
-      "source": "NAIS_1779012231925.png",
-      "situation": "F02",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F03-1",
-      "title": "SH/F03-1 (NAIS_1778571748300.png)",
-      "status": "ready",
-      "path": "SH/F03-1.webp",
-      "source": "NAIS_1778571748300.png",
-      "situation": "F03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F03-2",
-      "title": "SH/F03-2 (NAIS_1778571788671.png)",
-      "status": "ready",
-      "path": "SH/F03-2.webp",
-      "source": "NAIS_1778571788671.png",
-      "situation": "F03",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F04-1",
-      "title": "SH/F04-1 (NAIS_SCENE_1779472963832.png)",
-      "status": "ready",
-      "path": "SH/F04-1.webp",
-      "source": "NAIS_SCENE_1779472963832.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F04-2",
-      "title": "SH/F04-2 (NAIS_SCENE_1779472971995.png)",
-      "status": "ready",
-      "path": "SH/F04-2.webp",
-      "source": "NAIS_SCENE_1779472971995.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F04-3",
-      "title": "SH/F04-3 (NAIS_SCENE_1779472996295.png)",
-      "status": "ready",
-      "path": "SH/F04-3.webp",
-      "source": "NAIS_SCENE_1779472996295.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F04-4",
-      "title": "SH/F04-4 (NAIS_SCENE_1779473028745.png)",
-      "status": "ready",
-      "path": "SH/F04-4.webp",
-      "source": "NAIS_SCENE_1779473028745.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "SH",
-      "code": "F04-5",
-      "title": "SH/F04-5 (NAIS_SCENE_1779473125226.png)",
-      "status": "ready",
-      "path": "SH/F04-5.webp",
-      "source": "NAIS_SCENE_1779473125226.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
@@ -5309,122 +5089,12 @@
     },
     {
       "group": "YH",
-      "code": "0-1",
-      "title": "YH/0-1 (백유하_id_card.png)",
-      "status": "ready",
-      "path": "YH/0-1.webp",
-      "source": "백유하_id_card.png",
-      "situation": "0",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
       "code": "1-1",
       "title": "YH/1-1 (스크린샷 2026-05-18 201721.png)",
       "status": "ready",
       "path": "YH/1-1.webp",
       "source": "스크린샷 2026-05-18 201721.png",
       "situation": "1",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "2-1",
-      "title": "YH/2-1 (NAIS_1779087869207.png)",
-      "status": "ready",
-      "path": "YH/2-1.webp",
-      "source": "NAIS_1779087869207.png",
-      "situation": "2",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "3-1",
-      "title": "YH/3-1 (NAIS_1779088065967.png)",
-      "status": "ready",
-      "path": "YH/3-1.webp",
-      "source": "NAIS_1779088065967.png",
-      "situation": "3",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "4-1",
-      "title": "YH/4-1 (NAIS_1779087875941.png)",
-      "status": "ready",
-      "path": "YH/4-1.webp",
-      "source": "NAIS_1779087875941.png",
-      "situation": "4",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "5-1",
-      "title": "YH/5-1 (NAIS_1779088200356.png)",
-      "status": "ready",
-      "path": "YH/5-1.webp",
-      "source": "NAIS_1779088200356.png",
-      "situation": "5",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "6-1",
-      "title": "YH/6-1 (NAIS_SCENE_1779089790771.png)",
-      "status": "ready",
-      "path": "YH/6-1.webp",
-      "source": "NAIS_SCENE_1779089790771.png",
-      "situation": "6",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "6-2",
-      "title": "YH/6-2 (NAIS_SCENE_1779089880074.png)",
-      "status": "ready",
-      "path": "YH/6-2.webp",
-      "source": "NAIS_SCENE_1779089880074.png",
-      "situation": "6",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "7-1",
-      "title": "YH/7-1 (NAIS_1779088470414.png)",
-      "status": "ready",
-      "path": "YH/7-1.webp",
-      "source": "NAIS_1779088470414.png",
-      "situation": "7",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "8-1",
-      "title": "YH/8-1 (NAIS_SCENE_1779089812442.png)",
-      "status": "ready",
-      "path": "YH/8-1.webp",
-      "source": "NAIS_SCENE_1779089812442.png",
-      "situation": "8",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "8-2",
-      "title": "YH/8-2 (NAIS_SCENE_1779089887219.png)",
-      "status": "ready",
-      "path": "YH/8-2.webp",
-      "source": "NAIS_SCENE_1779089887219.png",
-      "situation": "8",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "9-1",
-      "title": "YH/9-1 (NAIS_1779086692170.png)",
-      "status": "ready",
-      "path": "YH/9-1.webp",
-      "source": "NAIS_1779086692170.png",
-      "situation": "9",
       "mode": "batch"
     },
     {
@@ -5549,52 +5219,112 @@
     },
     {
       "group": "YH",
+      "code": "2-1",
+      "title": "YH/2-1 (NAIS_1779087869207.png)",
+      "status": "ready",
+      "path": "YH/2-1.webp",
+      "source": "NAIS_1779087869207.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "3-1",
+      "title": "YH/3-1 (NAIS_1779088065967.png)",
+      "status": "ready",
+      "path": "YH/3-1.webp",
+      "source": "NAIS_1779088065967.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "4-1",
+      "title": "YH/4-1 (NAIS_1779087875941.png)",
+      "status": "ready",
+      "path": "YH/4-1.webp",
+      "source": "NAIS_1779087875941.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "5-1",
+      "title": "YH/5-1 (NAIS_1779088200356.png)",
+      "status": "ready",
+      "path": "YH/5-1.webp",
+      "source": "NAIS_1779088200356.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "6-1",
+      "title": "YH/6-1 (NAIS_SCENE_1779089790771.png)",
+      "status": "ready",
+      "path": "YH/6-1.webp",
+      "source": "NAIS_SCENE_1779089790771.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "6-2",
+      "title": "YH/6-2 (NAIS_SCENE_1779089880074.png)",
+      "status": "ready",
+      "path": "YH/6-2.webp",
+      "source": "NAIS_SCENE_1779089880074.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "7-1",
+      "title": "YH/7-1 (NAIS_1779088470414.png)",
+      "status": "ready",
+      "path": "YH/7-1.webp",
+      "source": "NAIS_1779088470414.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "8-1",
+      "title": "YH/8-1 (NAIS_SCENE_1779089812442.png)",
+      "status": "ready",
+      "path": "YH/8-1.webp",
+      "source": "NAIS_SCENE_1779089812442.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "8-2",
+      "title": "YH/8-2 (NAIS_SCENE_1779089887219.png)",
+      "status": "ready",
+      "path": "YH/8-2.webp",
+      "source": "NAIS_SCENE_1779089887219.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "9-1",
+      "title": "YH/9-1 (NAIS_1779086692170.png)",
+      "status": "ready",
+      "path": "YH/9-1.webp",
+      "source": "NAIS_1779086692170.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
       "code": "A01-1",
       "title": "YH/A01-1 (NAIS_1779085313087.png)",
       "status": "ready",
       "path": "YH/A01-1.webp",
       "source": "NAIS_1779085313087.png",
       "situation": "A01",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A02-1",
-      "title": "YH/A02-1 (NAIS_1779019267857.png)",
-      "status": "ready",
-      "path": "YH/A02-1.webp",
-      "source": "NAIS_1779019267857.png",
-      "situation": "A02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A02-2",
-      "title": "YH/A02-2 (NAIS_1779019384475.png)",
-      "status": "ready",
-      "path": "YH/A02-2.webp",
-      "source": "NAIS_1779019384475.png",
-      "situation": "A02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A02-3",
-      "title": "YH/A02-3 (NAIS_1779019419185.png)",
-      "status": "ready",
-      "path": "YH/A02-3.webp",
-      "source": "NAIS_1779019419185.png",
-      "situation": "A02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A02-4",
-      "title": "YH/A02-4 (NAIS_1779019422106.png)",
-      "status": "ready",
-      "path": "YH/A02-4.webp",
-      "source": "NAIS_1779019422106.png",
-      "situation": "A02",
       "mode": "batch"
     },
     {
@@ -5629,76 +5359,6 @@
     },
     {
       "group": "YH",
-      "code": "A04-1",
-      "title": "YH/A04-1 (NAIS_1779076564025.png)",
-      "status": "ready",
-      "path": "YH/A04-1.webp",
-      "source": "NAIS_1779076564025.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A04-2",
-      "title": "YH/A04-2 (NAIS_1779076578225.png)",
-      "status": "ready",
-      "path": "YH/A04-2.webp",
-      "source": "NAIS_1779076578225.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A04-3",
-      "title": "YH/A04-3 (NAIS_1779554169840.png)",
-      "status": "ready",
-      "path": "YH/A04-3.webp",
-      "source": "NAIS_1779554169840.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A04-4",
-      "title": "YH/A04-4 (NAIS_1779554646577.png)",
-      "status": "ready",
-      "path": "YH/A04-4.webp",
-      "source": "NAIS_1779554646577.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A04-5",
-      "title": "YH/A04-5 (NAIS_1779554658239.png)",
-      "status": "ready",
-      "path": "YH/A04-5.webp",
-      "source": "NAIS_1779554658239.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A04-6",
-      "title": "YH/A04-6 (NAIS_1779554670465.png)",
-      "status": "ready",
-      "path": "YH/A04-6.webp",
-      "source": "NAIS_1779554670465.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "A04-7",
-      "title": "YH/A04-7 (NAIS_SCENE_1779558130905.png)",
-      "status": "ready",
-      "path": "YH/A04-7.webp",
-      "source": "NAIS_SCENE_1779558130905.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
       "code": "B01-1",
       "title": "YH/B01-1 (NAIS_1779083204449.png)",
       "status": "ready",
@@ -5719,192 +5379,12 @@
     },
     {
       "group": "YH",
-      "code": "B02-1",
-      "title": "YH/B02-1 (NAIS_1779012514297.png)",
-      "status": "ready",
-      "path": "YH/B02-1.webp",
-      "source": "NAIS_1779012514297.png",
-      "situation": "B02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "B03-1",
-      "title": "YH/B03-1 (NAIS_1779083138877.png)",
-      "status": "ready",
-      "path": "YH/B03-1.webp",
-      "source": "NAIS_1779083138877.png",
-      "situation": "B03",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "B03-2",
-      "title": "YH/B03-2 (B03-2.webp)",
-      "status": "ready",
-      "path": "YH/B03-2.webp",
-      "source": "B03-2.webp",
-      "situation": "B03",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
       "code": "C02-1",
       "title": "YH/C02-1 (NAIS_1779106711991.png)",
       "status": "ready",
       "path": "YH/C02-1.webp",
       "source": "NAIS_1779106711991.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "C03-1",
-      "title": "YH/C03-1 (NAIS_1779086692170.png)",
-      "status": "ready",
-      "path": "YH/C03-1.webp",
-      "source": "NAIS_1779086692170.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "D02-1",
-      "title": "YH/D02-1 (NAIS_SCENE_1779089826621.png)",
-      "status": "ready",
-      "path": "YH/D02-1.webp",
-      "source": "NAIS_SCENE_1779089826621.png",
-      "situation": "D02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E01-1",
-      "title": "YH/E01-1 (NAIS_1779089886549.png)",
-      "status": "ready",
-      "path": "YH/E01-1.webp",
-      "source": "NAIS_1779089886549.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E01-2",
-      "title": "YH/E01-2 (NAIS_SCENE_1779089901561.png)",
-      "status": "ready",
-      "path": "YH/E01-2.webp",
-      "source": "NAIS_SCENE_1779089901561.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E01-3",
-      "title": "YH/E01-3 (NAIS_SCENE_1779091575710.png)",
-      "status": "ready",
-      "path": "YH/E01-3.webp",
-      "source": "NAIS_SCENE_1779091575710.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E01-4",
-      "title": "YH/E01-4 (NAIS_SCENE_1779091583201.png)",
-      "status": "ready",
-      "path": "YH/E01-4.webp",
-      "source": "NAIS_SCENE_1779091583201.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E01-5",
-      "title": "YH/E01-5 (NAIS_SCENE_1779091590130.png)",
-      "status": "ready",
-      "path": "YH/E01-5.webp",
-      "source": "NAIS_SCENE_1779091590130.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E02-1",
-      "title": "YH/E02-1 (NAIS_1778580227826.png)",
-      "status": "ready",
-      "path": "YH/E02-1.webp",
-      "source": "NAIS_1778580227826.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E02-2",
-      "title": "YH/E02-2 (NAIS_1778580284419.png)",
-      "status": "ready",
-      "path": "YH/E02-2.webp",
-      "source": "NAIS_1778580284419.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E02-3",
-      "title": "YH/E02-3 (NAIS_SCENE_1779090412446.png)",
-      "status": "ready",
-      "path": "YH/E02-3.webp",
-      "source": "NAIS_SCENE_1779090412446.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "E02-4",
-      "title": "YH/E02-4 (NAIS_SCENE_1779090420111.png)",
-      "status": "ready",
-      "path": "YH/E02-4.webp",
-      "source": "NAIS_SCENE_1779090420111.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "F04-1",
-      "title": "YH/F04-1 (NAIS_1779523337448.png)",
-      "status": "ready",
-      "path": "YH/F04-1.webp",
-      "source": "NAIS_1779523337448.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "F04-2",
-      "title": "YH/F04-2 (NAIS_1779523367264.png)",
-      "status": "ready",
-      "path": "YH/F04-2.webp",
-      "source": "NAIS_1779523367264.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "F04-3",
-      "title": "YH/F04-3 (NAIS_1779523465219.png)",
-      "status": "ready",
-      "path": "YH/F04-3.webp",
-      "source": "NAIS_1779523465219.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "YH",
-      "code": "F04-4",
-      "title": "YH/F04-4 (NAIS_1779523474431.png)",
-      "status": "ready",
-      "path": "YH/F04-4.webp",
-      "source": "NAIS_1779523474431.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
@@ -5959,16 +5439,6 @@
     },
     {
       "group": "YN",
-      "code": "0-1",
-      "title": "YN/0-1 (윤_id_card.png)",
-      "status": "ready",
-      "path": "YN/0-1.webp",
-      "source": "윤_id_card.png",
-      "situation": "0",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
       "code": "1-1",
       "title": "YN/1-1 (NAIS_1778676161235.png)",
       "status": "ready",
@@ -5985,96 +5455,6 @@
       "path": "YN/1-2.webp",
       "source": "NAIS_1779014699975.png",
       "situation": "1",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "2-1",
-      "title": "YN/2-1 (NAIS_1778677095019.png)",
-      "status": "ready",
-      "path": "YN/2-1.webp",
-      "source": "NAIS_1778677095019.png",
-      "situation": "2",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "3-1",
-      "title": "YN/3-1 (NAIS_1779014874002.png)",
-      "status": "ready",
-      "path": "YN/3-1.webp",
-      "source": "NAIS_1779014874002.png",
-      "situation": "3",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "4-1",
-      "title": "YN/4-1 (NAIS_1778677723837.png)",
-      "status": "ready",
-      "path": "YN/4-1.webp",
-      "source": "NAIS_1778677723837.png",
-      "situation": "4",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "5-1",
-      "title": "YN/5-1 (NAIS_1778677723837.png)",
-      "status": "ready",
-      "path": "YN/5-1.webp",
-      "source": "NAIS_1778677723837.png",
-      "situation": "5",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "6-1",
-      "title": "YN/6-1 (NAIS_1779088771655.png)",
-      "status": "ready",
-      "path": "YN/6-1.webp",
-      "source": "NAIS_1779088771655.png",
-      "situation": "6",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "7-1",
-      "title": "YN/7-1 (NAIS_1779088788391.png)",
-      "status": "ready",
-      "path": "YN/7-1.webp",
-      "source": "NAIS_1779088788391.png",
-      "situation": "7",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "8-1",
-      "title": "YN/8-1 (NAIS_1779014476133.png)",
-      "status": "ready",
-      "path": "YN/8-1.webp",
-      "source": "NAIS_1779014476133.png",
-      "situation": "8",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "9-1",
-      "title": "YN/9-1 (NAIS_1779014508393.png)",
-      "status": "ready",
-      "path": "YN/9-1.webp",
-      "source": "NAIS_1779014508393.png",
-      "situation": "9",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "9-2",
-      "title": "YN/9-2 (NAIS_1779014554865.png)",
-      "status": "ready",
-      "path": "YN/9-2.webp",
-      "source": "NAIS_1779014554865.png",
-      "situation": "9",
       "mode": "batch"
     },
     {
@@ -6259,12 +5639,92 @@
     },
     {
       "group": "YN",
-      "code": "19-1",
-      "title": "YN/19-1 (NAIS_1778675959084.png)",
+      "code": "2-1",
+      "title": "YN/2-1 (NAIS_1778677095019.png)",
       "status": "ready",
-      "path": "YN/19-1.webp",
-      "source": "NAIS_1778675959084.png",
-      "situation": "19",
+      "path": "YN/2-1.webp",
+      "source": "NAIS_1778677095019.png",
+      "situation": "2",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "3-1",
+      "title": "YN/3-1 (NAIS_1779014874002.png)",
+      "status": "ready",
+      "path": "YN/3-1.webp",
+      "source": "NAIS_1779014874002.png",
+      "situation": "3",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "4-1",
+      "title": "YN/4-1 (NAIS_1778677723837.png)",
+      "status": "ready",
+      "path": "YN/4-1.webp",
+      "source": "NAIS_1778677723837.png",
+      "situation": "4",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "5-1",
+      "title": "YN/5-1 (NAIS_1778677723837.png)",
+      "status": "ready",
+      "path": "YN/5-1.webp",
+      "source": "NAIS_1778677723837.png",
+      "situation": "5",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "6-1",
+      "title": "YN/6-1 (NAIS_1779088771655.png)",
+      "status": "ready",
+      "path": "YN/6-1.webp",
+      "source": "NAIS_1779088771655.png",
+      "situation": "6",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "7-1",
+      "title": "YN/7-1 (NAIS_1779088788391.png)",
+      "status": "ready",
+      "path": "YN/7-1.webp",
+      "source": "NAIS_1779088788391.png",
+      "situation": "7",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "8-1",
+      "title": "YN/8-1 (NAIS_1779014476133.png)",
+      "status": "ready",
+      "path": "YN/8-1.webp",
+      "source": "NAIS_1779014476133.png",
+      "situation": "8",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "9-1",
+      "title": "YN/9-1 (NAIS_1779014508393.png)",
+      "status": "ready",
+      "path": "YN/9-1.webp",
+      "source": "NAIS_1779014508393.png",
+      "situation": "9",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "9-2",
+      "title": "YN/9-2 (NAIS_1779014554865.png)",
+      "status": "ready",
+      "path": "YN/9-2.webp",
+      "source": "NAIS_1779014554865.png",
+      "situation": "9",
       "mode": "batch"
     },
     {
@@ -6285,36 +5745,6 @@
       "path": "YN/A03-1.webp",
       "source": "NAIS_1779083437941.png",
       "situation": "A03",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "A04-1",
-      "title": "YN/A04-1 (NAIS_1779557004665.png)",
-      "status": "ready",
-      "path": "YN/A04-1.webp",
-      "source": "NAIS_1779557004665.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "A04-2",
-      "title": "YN/A04-2 (NAIS_1779557024971.png)",
-      "status": "ready",
-      "path": "YN/A04-2.webp",
-      "source": "NAIS_1779557024971.png",
-      "situation": "A04",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "A04-3",
-      "title": "YN/A04-3 (NAIS_1779557043965.png)",
-      "status": "ready",
-      "path": "YN/A04-3.webp",
-      "source": "NAIS_1779557043965.png",
-      "situation": "A04",
       "mode": "batch"
     },
     {
@@ -6349,132 +5779,12 @@
     },
     {
       "group": "YN",
-      "code": "B02-1",
-      "title": "YN/B02-1 (NAIS_1779012646831.png)",
-      "status": "ready",
-      "path": "YN/B02-1.webp",
-      "source": "NAIS_1779012646831.png",
-      "situation": "B02",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "B02-2",
-      "title": "YN/B02-2 (NAIS_1779012686697.png)",
-      "status": "ready",
-      "path": "YN/B02-2.webp",
-      "source": "NAIS_1779012686697.png",
-      "situation": "B02",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "C01-1",
-      "title": "YN/C01-1 (NAIS_1779014699975.png)",
-      "status": "ready",
-      "path": "YN/C01-1.webp",
-      "source": "NAIS_1779014699975.png",
-      "situation": "C01",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
       "code": "C02-1",
       "title": "YN/C02-1 (NAIS_1779104361326.png)",
       "status": "ready",
       "path": "YN/C02-1.webp",
       "source": "NAIS_1779104361326.png",
       "situation": "C02",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "C03-1",
-      "title": "YN/C03-1 (NAIS_1779086708908.png)",
-      "status": "ready",
-      "path": "YN/C03-1.webp",
-      "source": "NAIS_1779086708908.png",
-      "situation": "C03",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "E01-1",
-      "title": "YN/E01-1 (NAIS_SCENE_1779092415394.png)",
-      "status": "ready",
-      "path": "YN/E01-1.webp",
-      "source": "NAIS_SCENE_1779092415394.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "E01-2",
-      "title": "YN/E01-2 (스크린샷 2026-05-18 183930.png)",
-      "status": "ready",
-      "path": "YN/E01-2.webp",
-      "source": "스크린샷 2026-05-18 183930.png",
-      "situation": "E01",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "E02-1",
-      "title": "YN/E02-1 (NAIS_SCENE_1779090596393.png)",
-      "status": "ready",
-      "path": "YN/E02-1.webp",
-      "source": "NAIS_SCENE_1779090596393.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "E02-2",
-      "title": "YN/E02-2 (NAIS_SCENE_1779090693587.png)",
-      "status": "ready",
-      "path": "YN/E02-2.webp",
-      "source": "NAIS_SCENE_1779090693587.png",
-      "situation": "E02",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "F01-1",
-      "title": "YN/F01-1 (NAIS_1778676789660.png)",
-      "status": "ready",
-      "path": "YN/F01-1.webp",
-      "source": "NAIS_1778676789660.png",
-      "situation": "F01",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "F04-1",
-      "title": "YN/F04-1 (NAIS_1779522513996.png)",
-      "status": "ready",
-      "path": "YN/F04-1.webp",
-      "source": "NAIS_1779522513996.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "F04-2",
-      "title": "YN/F04-2 (NAIS_1779522594019.png)",
-      "status": "ready",
-      "path": "YN/F04-2.webp",
-      "source": "NAIS_1779522594019.png",
-      "situation": "F04",
-      "mode": "batch"
-    },
-    {
-      "group": "YN",
-      "code": "F04-3",
-      "title": "YN/F04-3 (NAIS_1779522614114.png)",
-      "status": "ready",
-      "path": "YN/F04-3.webp",
-      "source": "NAIS_1779522614114.png",
-      "situation": "F04",
       "mode": "batch"
     },
     {
