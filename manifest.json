@@ -2179,16 +2179,6 @@
     },
     {
       "group": "HL",
-      "code": "11-3",
-      "title": "HL/11-3 (NAIS_1780229130474.png)",
-      "status": "ready",
-      "path": "HL/11-3.webp",
-      "source": "NAIS_1780229130474.png",
-      "situation": "11",
-      "mode": "batch"
-    },
-    {
-      "group": "HL",
       "code": "12-1",
       "title": "HL/12-1 (NAIS_1779915087734.png)",
       "status": "ready",
