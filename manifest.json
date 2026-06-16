@@ -759,6 +759,56 @@
     },
     {
       "group": "AH",
+      "code": "BB-1",
+      "title": "AH/BB-1 (NAIS_1781479968874.png)",
+      "status": "ready",
+      "path": "AH/BB-1.webp",
+      "source": "NAIS_1781479968874.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "BB-2",
+      "title": "AH/BB-2 (NAIS_1781479973629.png)",
+      "status": "ready",
+      "path": "AH/BB-2.webp",
+      "source": "NAIS_1781479973629.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "BB-3",
+      "title": "AH/BB-3 (NAIS_1781479979045.png)",
+      "status": "ready",
+      "path": "AH/BB-3.webp",
+      "source": "NAIS_1781479979045.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "BB-4",
+      "title": "AH/BB-4 (NAIS_1781479988385.png)",
+      "status": "ready",
+      "path": "AH/BB-4.webp",
+      "source": "NAIS_1781479988385.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "BB-5",
+      "title": "AH/BB-5 (NAIS_1781479993287.png)",
+      "status": "ready",
+      "path": "AH/BB-5.webp",
+      "source": "NAIS_1781479993287.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
       "code": "C01-1",
       "title": "AH/C01-1 (NAIS_1779104495504.png)",
       "status": "ready",
@@ -1549,6 +1599,56 @@
     },
     {
       "group": "AH",
+      "code": "WD-1",
+      "title": "AH/WD-1 (NAIS_1781510853135.png)",
+      "status": "ready",
+      "path": "AH/WD-1.webp",
+      "source": "NAIS_1781510853135.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "WD-2",
+      "title": "AH/WD-2 (NAIS_1781510861348.png)",
+      "status": "ready",
+      "path": "AH/WD-2.webp",
+      "source": "NAIS_1781510861348.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "WD-3",
+      "title": "AH/WD-3 (NAIS_1781522269596.png)",
+      "status": "ready",
+      "path": "AH/WD-3.webp",
+      "source": "NAIS_1781522269596.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "WD-4",
+      "title": "AH/WD-4 (NAIS_1781522304427.png)",
+      "status": "ready",
+      "path": "AH/WD-4.webp",
+      "source": "NAIS_1781522304427.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
+      "code": "WD-5",
+      "title": "AH/WD-5 (NAIS_1781522327075.png)",
+      "status": "ready",
+      "path": "AH/WD-5.webp",
+      "source": "NAIS_1781522327075.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "AH",
       "code": "X01-1",
       "title": "AH/X01-1 (NAIS_SCENE_1780167428901.png)",
       "status": "ready",
@@ -2169,6 +2269,36 @@
     },
     {
       "group": "BH",
+      "code": "BB-1",
+      "title": "BH/BB-1 (NAIS_1781476168312.png)",
+      "status": "ready",
+      "path": "BH/BB-1.webp",
+      "source": "NAIS_1781476168312.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "BB-2",
+      "title": "BH/BB-2 (NAIS_1781476303368.png)",
+      "status": "ready",
+      "path": "BH/BB-2.webp",
+      "source": "NAIS_1781476303368.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "BB-3",
+      "title": "BH/BB-3 (NAIS_1781476321270.png)",
+      "status": "ready",
+      "path": "BH/BB-3.webp",
+      "source": "NAIS_1781476321270.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
       "code": "C02-1",
       "title": "BH/C02-1 (NAIS_1779082113440.png)",
       "status": "ready",
@@ -2405,6 +2535,26 @@
       "path": "BH/G04-1.webp",
       "source": "NAIS_1778999613511.png",
       "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "WD-1",
+      "title": "BH/WD-1 (NAIS_1781492808364.png)",
+      "status": "ready",
+      "path": "BH/WD-1.webp",
+      "source": "NAIS_1781492808364.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "BH",
+      "code": "WD-2",
+      "title": "BH/WD-2 (NAIS_1781492814849.png)",
+      "status": "ready",
+      "path": "BH/WD-2.webp",
+      "source": "NAIS_1781492814849.png",
+      "situation": "WD",
       "mode": "batch"
     },
     {
@@ -3385,6 +3535,76 @@
       "path": "CA/BA07-7.webp",
       "source": "NAIS_1780156102065.png",
       "situation": "BA07",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "BB-1",
+      "title": "CA/BB-1 (NAIS_1781480274538.png)",
+      "status": "ready",
+      "path": "CA/BB-1.webp",
+      "source": "NAIS_1781480274538.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "BB-2",
+      "title": "CA/BB-2 (NAIS_1781580937792.png)",
+      "status": "ready",
+      "path": "CA/BB-2.webp",
+      "source": "NAIS_1781580937792.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "BB-3",
+      "title": "CA/BB-3 (NAIS_1781582194956.png)",
+      "status": "ready",
+      "path": "CA/BB-3.webp",
+      "source": "NAIS_1781582194956.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "BB-4",
+      "title": "CA/BB-4 (NAIS_1781584268961.png)",
+      "status": "ready",
+      "path": "CA/BB-4.webp",
+      "source": "NAIS_1781584268961.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "BB-5",
+      "title": "CA/BB-5 (NAIS_1781584297716.png)",
+      "status": "ready",
+      "path": "CA/BB-5.webp",
+      "source": "NAIS_1781584297716.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "BB-6",
+      "title": "CA/BB-6 (NAIS_1781584541457.png)",
+      "status": "ready",
+      "path": "CA/BB-6.webp",
+      "source": "NAIS_1781584541457.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "BB-7",
+      "title": "CA/BB-7 (NAIS_1781584588925.png)",
+      "status": "ready",
+      "path": "CA/BB-7.webp",
+      "source": "NAIS_1781584588925.png",
+      "situation": "BB",
       "mode": "batch"
     },
     {
@@ -5159,6 +5379,76 @@
     },
     {
       "group": "CA",
+      "code": "WD-1",
+      "title": "CA/WD-1 (NAIS_1781596474410.png)",
+      "status": "ready",
+      "path": "CA/WD-1.webp",
+      "source": "NAIS_1781596474410.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "WD-2",
+      "title": "CA/WD-2 (NAIS_1781596783637.png)",
+      "status": "ready",
+      "path": "CA/WD-2.webp",
+      "source": "NAIS_1781596783637.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "WD-3",
+      "title": "CA/WD-3 (NAIS_1781596811295.png)",
+      "status": "ready",
+      "path": "CA/WD-3.webp",
+      "source": "NAIS_1781596811295.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "WD-4",
+      "title": "CA/WD-4 (NAIS_1781603424047.png)",
+      "status": "ready",
+      "path": "CA/WD-4.webp",
+      "source": "NAIS_1781603424047.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "WD-5",
+      "title": "CA/WD-5 (NAIS_1781604952035.png)",
+      "status": "ready",
+      "path": "CA/WD-5.webp",
+      "source": "NAIS_1781604952035.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "WD-6",
+      "title": "CA/WD-6 (NAIS_1781604987379.png)",
+      "status": "ready",
+      "path": "CA/WD-6.webp",
+      "source": "NAIS_1781604987379.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
+      "code": "WD-7",
+      "title": "CA/WD-7 (NAIS_1781605166096.png)",
+      "status": "ready",
+      "path": "CA/WD-7.webp",
+      "source": "NAIS_1781605166096.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CA",
       "code": "X01-1",
       "title": "CA/X01-1 (NAIS_1780087707867.png)",
       "status": "ready",
@@ -6385,6 +6675,66 @@
       "path": "CY/BA07-6.webp",
       "source": "NAIS_1780156689720.png",
       "situation": "BA07",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "BB-1",
+      "title": "CY/BB-1 (NAIS_1781475712747.png)",
+      "status": "ready",
+      "path": "CY/BB-1.webp",
+      "source": "NAIS_1781475712747.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "BB-2",
+      "title": "CY/BB-2 (NAIS_1781475721006.png)",
+      "status": "ready",
+      "path": "CY/BB-2.webp",
+      "source": "NAIS_1781475721006.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "BB-3",
+      "title": "CY/BB-3 (NAIS_1781579214656.png)",
+      "status": "ready",
+      "path": "CY/BB-3.webp",
+      "source": "NAIS_1781579214656.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "BB-4",
+      "title": "CY/BB-4 (NAIS_1781579228704.png)",
+      "status": "ready",
+      "path": "CY/BB-4.webp",
+      "source": "NAIS_1781579228704.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "BB-5",
+      "title": "CY/BB-5 (NAIS_1781579586462.png)",
+      "status": "ready",
+      "path": "CY/BB-5.webp",
+      "source": "NAIS_1781579586462.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "BB-6",
+      "title": "CY/BB-6 (NAIS_1781579649789.png)",
+      "status": "ready",
+      "path": "CY/BB-6.webp",
+      "source": "NAIS_1781579649789.png",
+      "situation": "BB",
       "mode": "batch"
     },
     {
@@ -8099,6 +8449,56 @@
     },
     {
       "group": "CY",
+      "code": "WD-1",
+      "title": "CY/WD-1 (NAIS_1781481358786.png)",
+      "status": "ready",
+      "path": "CY/WD-1.webp",
+      "source": "NAIS_1781481358786.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "WD-2",
+      "title": "CY/WD-2 (NAIS_1781484143961.png)",
+      "status": "ready",
+      "path": "CY/WD-2.webp",
+      "source": "NAIS_1781484143961.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "WD-3",
+      "title": "CY/WD-3 (NAIS_1781511807711.png)",
+      "status": "ready",
+      "path": "CY/WD-3.webp",
+      "source": "NAIS_1781511807711.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "WD-4",
+      "title": "CY/WD-4 (NAIS_1781600236938.png)",
+      "status": "ready",
+      "path": "CY/WD-4.webp",
+      "source": "NAIS_1781600236938.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
+      "code": "WD-5",
+      "title": "CY/WD-5 (NAIS_1781600278189.png)",
+      "status": "ready",
+      "path": "CY/WD-5.webp",
+      "source": "NAIS_1781600278189.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "CY",
       "code": "X01-1",
       "title": "CY/X01-1 (NAIS_SCENE_1780103785199.png)",
       "status": "ready",
@@ -9619,6 +10019,36 @@
     },
     {
       "group": "HL",
+      "code": "BB-1",
+      "title": "HL/BB-1 (NAIS_1781480284216.png)",
+      "status": "ready",
+      "path": "HL/BB-1.webp",
+      "source": "NAIS_1781480284216.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "BB-2",
+      "title": "HL/BB-2 (NAIS_1781480300384.png)",
+      "status": "ready",
+      "path": "HL/BB-2.webp",
+      "source": "NAIS_1781480300384.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "BB-3",
+      "title": "HL/BB-3 (NAIS_1781480341035.png)",
+      "status": "ready",
+      "path": "HL/BB-3.webp",
+      "source": "NAIS_1781480341035.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
       "code": "C01-1",
       "title": "HL/C01-1 (NAIS_SCENE_1780180586000.png)",
       "status": "ready",
@@ -11089,6 +11519,96 @@
     },
     {
       "group": "HL",
+      "code": "WD-1",
+      "title": "HL/WD-1 (NAIS_1781582647592.png)",
+      "status": "ready",
+      "path": "HL/WD-1.webp",
+      "source": "NAIS_1781582647592.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "WD-2",
+      "title": "HL/WD-2 (NAIS_1781582656162.png)",
+      "status": "ready",
+      "path": "HL/WD-2.webp",
+      "source": "NAIS_1781582656162.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "WD-3",
+      "title": "HL/WD-3 (NAIS_1781597088347.png)",
+      "status": "ready",
+      "path": "HL/WD-3.webp",
+      "source": "NAIS_1781597088347.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "WD-4",
+      "title": "HL/WD-4 (NAIS_1781597268013.png)",
+      "status": "ready",
+      "path": "HL/WD-4.webp",
+      "source": "NAIS_1781597268013.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "WD-5",
+      "title": "HL/WD-5 (NAIS_1781597383343.png)",
+      "status": "ready",
+      "path": "HL/WD-5.webp",
+      "source": "NAIS_1781597383343.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "WD-6",
+      "title": "HL/WD-6 (NAIS_1781597397994.png)",
+      "status": "ready",
+      "path": "HL/WD-6.webp",
+      "source": "NAIS_1781597397994.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "WD-7",
+      "title": "HL/WD-7 (NAIS_1781597501704.png)",
+      "status": "ready",
+      "path": "HL/WD-7.webp",
+      "source": "NAIS_1781597501704.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "WD-8",
+      "title": "HL/WD-8 (NAIS_1781597598510.png)",
+      "status": "ready",
+      "path": "HL/WD-8.webp",
+      "source": "NAIS_1781597598510.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
+      "code": "WD-9",
+      "title": "HL/WD-9 (NAIS_1781597636748.png)",
+      "status": "ready",
+      "path": "HL/WD-9.webp",
+      "source": "NAIS_1781597636748.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HL",
       "code": "WF-1",
       "title": "HL/WF-1 (NAIS_SCENE_1780170834530.png)",
       "status": "ready",
@@ -12339,6 +12859,56 @@
     },
     {
       "group": "HR",
+      "code": "BB-1",
+      "title": "HR/BB-1 (NAIS_1781476629044.png)",
+      "status": "ready",
+      "path": "HR/BB-1.webp",
+      "source": "NAIS_1781476629044.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "BB-2",
+      "title": "HR/BB-2 (NAIS_1781476748135.png)",
+      "status": "ready",
+      "path": "HR/BB-2.webp",
+      "source": "NAIS_1781476748135.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "BB-3",
+      "title": "HR/BB-3 (NAIS_1781479697223.png)",
+      "status": "ready",
+      "path": "HR/BB-3.webp",
+      "source": "NAIS_1781479697223.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "BB-4",
+      "title": "HR/BB-4 (NAIS_1781479701587.png)",
+      "status": "ready",
+      "path": "HR/BB-4.webp",
+      "source": "NAIS_1781479701587.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "BB-5",
+      "title": "HR/BB-5 (NAIS_1781479715530.png)",
+      "status": "ready",
+      "path": "HR/BB-5.webp",
+      "source": "NAIS_1781479715530.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
       "code": "C02-1",
       "title": "HR/C02-1 (NAIS_1779081755132.png)",
       "status": "ready",
@@ -13395,6 +13965,46 @@
       "path": "HR/T03-4.webp",
       "source": "NAIS_SCENE_1780060540360.png",
       "situation": "T03",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "WD-1",
+      "title": "HR/WD-1 (NAIS_1781510640417.png)",
+      "status": "ready",
+      "path": "HR/WD-1.webp",
+      "source": "NAIS_1781510640417.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "WD-2",
+      "title": "HR/WD-2 (NAIS_1781510656209.png)",
+      "status": "ready",
+      "path": "HR/WD-2.webp",
+      "source": "NAIS_1781510656209.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "WD-3",
+      "title": "HR/WD-3 (NAIS_1781510679954.png)",
+      "status": "ready",
+      "path": "HR/WD-3.webp",
+      "source": "NAIS_1781510679954.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "HR",
+      "code": "WD-4",
+      "title": "HR/WD-4 (NAIS_1781510720997.png)",
+      "status": "ready",
+      "path": "HR/WD-4.webp",
+      "source": "NAIS_1781510720997.png",
+      "situation": "WD",
       "mode": "batch"
     },
     {
@@ -14459,6 +15069,66 @@
     },
     {
       "group": "JW",
+      "code": "BB-1",
+      "title": "JW/BB-1 (NAIS_1781480019926.png)",
+      "status": "ready",
+      "path": "JW/BB-1.webp",
+      "source": "NAIS_1781480019926.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "BB-2",
+      "title": "JW/BB-2 (NAIS_1781480030742.png)",
+      "status": "ready",
+      "path": "JW/BB-2.webp",
+      "source": "NAIS_1781480030742.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "BB-3",
+      "title": "JW/BB-3 (NAIS_1781480631997.png)",
+      "status": "ready",
+      "path": "JW/BB-3.webp",
+      "source": "NAIS_1781480631997.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "BB-4",
+      "title": "JW/BB-4 (NAIS_1781480663523.png)",
+      "status": "ready",
+      "path": "JW/BB-4.webp",
+      "source": "NAIS_1781480663523.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "BB-5",
+      "title": "JW/BB-5 (NAIS_1781480674264.png)",
+      "status": "ready",
+      "path": "JW/BB-5.webp",
+      "source": "NAIS_1781480674264.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "BB-6",
+      "title": "JW/BB-6 (NAIS_1781578982944.png)",
+      "status": "ready",
+      "path": "JW/BB-6.webp",
+      "source": "NAIS_1781578982944.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
       "code": "C01-1",
       "title": "JW/C01-1 (NAIS_1778584457004.png)",
       "status": "ready",
@@ -15285,6 +15955,56 @@
       "path": "JW/T03-4.webp",
       "source": "NAIS_SCENE_1780060767929.png",
       "situation": "T03",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "WD-1",
+      "title": "JW/WD-1 (NAIS_1781510955593.png)",
+      "status": "ready",
+      "path": "JW/WD-1.webp",
+      "source": "NAIS_1781510955593.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "WD-2",
+      "title": "JW/WD-2 (NAIS_1781510962820.png)",
+      "status": "ready",
+      "path": "JW/WD-2.webp",
+      "source": "NAIS_1781510962820.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "WD-3",
+      "title": "JW/WD-3 (NAIS_1781511054457.png)",
+      "status": "ready",
+      "path": "JW/WD-3.webp",
+      "source": "NAIS_1781511054457.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "WD-4",
+      "title": "JW/WD-4 (NAIS_1781511095034.png)",
+      "status": "ready",
+      "path": "JW/WD-4.webp",
+      "source": "NAIS_1781511095034.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "JW",
+      "code": "WD-5",
+      "title": "JW/WD-5 (NAIS_1781578855665.png)",
+      "status": "ready",
+      "path": "JW/WD-5.webp",
+      "source": "NAIS_1781578855665.png",
+      "situation": "WD",
       "mode": "batch"
     },
     {
@@ -16849,6 +17569,56 @@
     },
     {
       "group": "RY",
+      "code": "BB-1",
+      "title": "RY/BB-1 (NAIS_1781480074638.png)",
+      "status": "ready",
+      "path": "RY/BB-1.webp",
+      "source": "NAIS_1781480074638.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "BB-2",
+      "title": "RY/BB-2 (NAIS_1781480104661.png)",
+      "status": "ready",
+      "path": "RY/BB-2.webp",
+      "source": "NAIS_1781480104661.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "BB-3",
+      "title": "RY/BB-3 (NAIS_1781480119748.png)",
+      "status": "ready",
+      "path": "RY/BB-3.webp",
+      "source": "NAIS_1781480119748.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "BB-4",
+      "title": "RY/BB-4 (NAIS_1781480125646.png)",
+      "status": "ready",
+      "path": "RY/BB-4.webp",
+      "source": "NAIS_1781480125646.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "BB-5",
+      "title": "RY/BB-5 (NAIS_1781480145273.png)",
+      "status": "ready",
+      "path": "RY/BB-5.webp",
+      "source": "NAIS_1781480145273.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
       "code": "C01-1",
       "title": "RY/C01-1 (NAIS_SCENE_1780185862132.png)",
       "status": "ready",
@@ -18209,6 +18979,106 @@
     },
     {
       "group": "RY",
+      "code": "WD-1",
+      "title": "RY/WD-1 (NAIS_1781516182478.png)",
+      "status": "ready",
+      "path": "RY/WD-1.webp",
+      "source": "NAIS_1781516182478.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-10",
+      "title": "RY/WD-10 (NAIS_1781578535056.png)",
+      "status": "ready",
+      "path": "RY/WD-10.webp",
+      "source": "NAIS_1781578535056.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-2",
+      "title": "RY/WD-2 (NAIS_1781522759555.png)",
+      "status": "ready",
+      "path": "RY/WD-2.webp",
+      "source": "NAIS_1781522759555.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-3",
+      "title": "RY/WD-3 (NAIS_1781522941984.png)",
+      "status": "ready",
+      "path": "RY/WD-3.webp",
+      "source": "NAIS_1781522941984.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-4",
+      "title": "RY/WD-4 (NAIS_1781522954377.png)",
+      "status": "ready",
+      "path": "RY/WD-4.webp",
+      "source": "NAIS_1781522954377.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-5",
+      "title": "RY/WD-5 (NAIS_1781578442263.png)",
+      "status": "ready",
+      "path": "RY/WD-5.webp",
+      "source": "NAIS_1781578442263.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-6",
+      "title": "RY/WD-6 (NAIS_1781578483128.png)",
+      "status": "ready",
+      "path": "RY/WD-6.webp",
+      "source": "NAIS_1781578483128.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-7",
+      "title": "RY/WD-7 (NAIS_1781578489461.png)",
+      "status": "ready",
+      "path": "RY/WD-7.webp",
+      "source": "NAIS_1781578489461.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-8",
+      "title": "RY/WD-8 (NAIS_1781578511954.png)",
+      "status": "ready",
+      "path": "RY/WD-8.webp",
+      "source": "NAIS_1781578511954.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
+      "code": "WD-9",
+      "title": "RY/WD-9 (NAIS_1781578519220.png)",
+      "status": "ready",
+      "path": "RY/WD-9.webp",
+      "source": "NAIS_1781578519220.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "RY",
       "code": "WF-1",
       "title": "RY/WF-1 (NAIS_SCENE_1780162284213.png)",
       "status": "ready",
@@ -19515,6 +20385,96 @@
       "path": "SH/BA07-7.webp",
       "source": "NAIS_1780156358912.png",
       "situation": "BA07",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-1",
+      "title": "SH/BB-1 (NAIS_1781476465698.png)",
+      "status": "ready",
+      "path": "SH/BB-1.webp",
+      "source": "NAIS_1781476465698.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-2",
+      "title": "SH/BB-2 (NAIS_1781476511760.png)",
+      "status": "ready",
+      "path": "SH/BB-2.webp",
+      "source": "NAIS_1781476511760.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-3",
+      "title": "SH/BB-3 (NAIS_1781479730113.png)",
+      "status": "ready",
+      "path": "SH/BB-3.webp",
+      "source": "NAIS_1781479730113.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-4",
+      "title": "SH/BB-4 (NAIS_1781479735312.png)",
+      "status": "ready",
+      "path": "SH/BB-4.webp",
+      "source": "NAIS_1781479735312.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-5",
+      "title": "SH/BB-5 (NAIS_1781479783200.png)",
+      "status": "ready",
+      "path": "SH/BB-5.webp",
+      "source": "NAIS_1781479783200.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-6",
+      "title": "SH/BB-6 (NAIS_1781479803289.png)",
+      "status": "ready",
+      "path": "SH/BB-6.webp",
+      "source": "NAIS_1781479803289.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-7",
+      "title": "SH/BB-7 (NAIS_1781479834458.png)",
+      "status": "ready",
+      "path": "SH/BB-7.webp",
+      "source": "NAIS_1781479834458.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-8",
+      "title": "SH/BB-8 (NAIS_1781479838995.png)",
+      "status": "ready",
+      "path": "SH/BB-8.webp",
+      "source": "NAIS_1781479838995.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "BB-9",
+      "title": "SH/BB-9 (NAIS_1781479853884.png)",
+      "status": "ready",
+      "path": "SH/BB-9.webp",
+      "source": "NAIS_1781479853884.png",
+      "situation": "BB",
       "mode": "batch"
     },
     {
@@ -21219,6 +22179,56 @@
     },
     {
       "group": "SH",
+      "code": "WD-1",
+      "title": "SH/WD-1 (NAIS_1781509399452.png)",
+      "status": "ready",
+      "path": "SH/WD-1.webp",
+      "source": "NAIS_1781509399452.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "WD-2",
+      "title": "SH/WD-2 (NAIS_1781509623165.png)",
+      "status": "ready",
+      "path": "SH/WD-2.webp",
+      "source": "NAIS_1781509623165.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "WD-3",
+      "title": "SH/WD-3 (NAIS_1781510469951.png)",
+      "status": "ready",
+      "path": "SH/WD-3.webp",
+      "source": "NAIS_1781510469951.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "WD-4",
+      "title": "SH/WD-4 (NAIS_1781598494745.png)",
+      "status": "ready",
+      "path": "SH/WD-4.webp",
+      "source": "NAIS_1781598494745.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
+      "code": "WD-5",
+      "title": "SH/WD-5 (NAIS_1781599007503.png)",
+      "status": "ready",
+      "path": "SH/WD-5.webp",
+      "source": "NAIS_1781599007503.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "SH",
       "code": "X01-1",
       "title": "SH/X01-1 (NAIS_SCENE_1780132024772.png)",
       "status": "ready",
@@ -22225,6 +23235,86 @@
       "path": "YH/BA07-4.webp",
       "source": "NAIS_1780156519098.png",
       "situation": "BA07",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "BB-1",
+      "title": "YH/BB-1 (NAIS_1781476326834.png)",
+      "status": "ready",
+      "path": "YH/BB-1.webp",
+      "source": "NAIS_1781476326834.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "BB-2",
+      "title": "YH/BB-2 (NAIS_1781476365256.png)",
+      "status": "ready",
+      "path": "YH/BB-2.webp",
+      "source": "NAIS_1781476365256.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "BB-3",
+      "title": "YH/BB-3 (NAIS_1781476421113.png)",
+      "status": "ready",
+      "path": "YH/BB-3.webp",
+      "source": "NAIS_1781476421113.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "BB-4",
+      "title": "YH/BB-4 (NAIS_1781579021146.png)",
+      "status": "ready",
+      "path": "YH/BB-4.webp",
+      "source": "NAIS_1781579021146.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "BB-5",
+      "title": "YH/BB-5 (NAIS_1781579032299.png)",
+      "status": "ready",
+      "path": "YH/BB-5.webp",
+      "source": "NAIS_1781579032299.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "BB-6",
+      "title": "YH/BB-6 (NAIS_1781579717954.png)",
+      "status": "ready",
+      "path": "YH/BB-6.webp",
+      "source": "NAIS_1781579717954.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "BB-7",
+      "title": "YH/BB-7 (NAIS_1781579768431.png)",
+      "status": "ready",
+      "path": "YH/BB-7.webp",
+      "source": "NAIS_1781579768431.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "BB-8",
+      "title": "YH/BB-8 (NAIS_1781579800677.png)",
+      "status": "ready",
+      "path": "YH/BB-8.webp",
+      "source": "NAIS_1781579800677.png",
+      "situation": "BB",
       "mode": "batch"
     },
     {
@@ -23269,6 +24359,56 @@
     },
     {
       "group": "YH",
+      "code": "WD-1",
+      "title": "YH/WD-1 (NAIS_1781493348504.png)",
+      "status": "ready",
+      "path": "YH/WD-1.webp",
+      "source": "NAIS_1781493348504.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "WD-2",
+      "title": "YH/WD-2 (NAIS_1781493379647.png)",
+      "status": "ready",
+      "path": "YH/WD-2.webp",
+      "source": "NAIS_1781493379647.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "WD-3",
+      "title": "YH/WD-3 (NAIS_1781510617952.png)",
+      "status": "ready",
+      "path": "YH/WD-3.webp",
+      "source": "NAIS_1781510617952.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "WD-4",
+      "title": "YH/WD-4 (NAIS_1781510624745.png)",
+      "status": "ready",
+      "path": "YH/WD-4.webp",
+      "source": "NAIS_1781510624745.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
+      "code": "WD-5",
+      "title": "YH/WD-5 (NAIS_1781578767300.png)",
+      "status": "ready",
+      "path": "YH/WD-5.webp",
+      "source": "NAIS_1781578767300.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "YH",
       "code": "X01-1",
       "title": "YH/X01-1 (NAIS_SCENE_1780161864769.png)",
       "status": "ready",
@@ -23899,6 +25039,36 @@
     },
     {
       "group": "YN",
+      "code": "BB-1",
+      "title": "YN/BB-1 (NAIS_1781476146817.png)",
+      "status": "ready",
+      "path": "YN/BB-1.webp",
+      "source": "NAIS_1781476146817.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "BB-2",
+      "title": "YN/BB-2 (NAIS_1781476152154.png)",
+      "status": "ready",
+      "path": "YN/BB-2.webp",
+      "source": "NAIS_1781476152154.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "BB-3",
+      "title": "YN/BB-3 (NAIS_1781476157696.png)",
+      "status": "ready",
+      "path": "YN/BB-3.webp",
+      "source": "NAIS_1781476157696.png",
+      "situation": "BB",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
       "code": "C01-1",
       "title": "YN/C01-1 (NAIS_1779014699975.png)",
       "status": "ready",
@@ -24125,6 +25295,26 @@
       "path": "YN/G04-1.webp",
       "source": "NAIS_1779106632403.png",
       "situation": "G04",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "WD-1",
+      "title": "YN/WD-1 (NAIS_1781492749517.png)",
+      "status": "ready",
+      "path": "YN/WD-1.webp",
+      "source": "NAIS_1781492749517.png",
+      "situation": "WD",
+      "mode": "batch"
+    },
+    {
+      "group": "YN",
+      "code": "WD-2",
+      "title": "YN/WD-2 (NAIS_1781492756430.png)",
+      "status": "ready",
+      "path": "YN/WD-2.webp",
+      "source": "NAIS_1781492756430.png",
+      "situation": "WD",
       "mode": "batch"
     }
   ]
